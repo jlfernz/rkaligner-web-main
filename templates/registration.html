@@ -1,0 +1,21 @@
+<div class="wrapper__registration">
+  <form id="createAccount" onsubmit="handleSubmitRegistration(); return false;">
+    <h1 class="form__title">Register</h1>
+    <div class="form__input-group">
+      <input required type="text" id="username" name="username" class="form__input" autofocus placeholder="Username">
+    </div>
+    <div class="form__input-group">
+      <input required type="email" id="email" name="email" class="form__input" placeholder="Email Address">
+    </div>
+    <div class="form__input-group">
+      <input required type="password" id="password" name="password" class="form__input" placeholder="Password">
+    </div>
+    <div class="form__input-group">
+      <input required type="password" id="confirmpass" name="confirmpass" class="form__input" placeholder="Confirm password">
+    </div>
+    <button class="form__input-group btn form__button" onclick="handleSubmitRegistration(); return false;" type="submit">Register</button>
+    <p class="form__text">
+      <a class="form__link" href="/login" id="linkLogin">Already have an account? Sign in</a>
+    </p>
+  </form>
+</div>

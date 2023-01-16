@@ -1,0 +1,22 @@
+.wrapper__login,
+.wrapper__registration,
+.wrapper__importer {
+  display: flex;
+  flex-direction: column;
+  width: inherit;
+  padding: 10px;
+  justify-content: center;
+}
+
+.login-wrapper .register__link {
+  width: auto;
+  padding: 16px;
+  font-weight: bold;
+  font-size: 12px;
+  border: none;
+  color: var(--color-primary);
+  outline: none;
+  cursor: pointer;
+  background: var(--color-primary-dark);
+  text-align: center;
+}

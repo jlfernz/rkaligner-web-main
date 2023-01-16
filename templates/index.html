@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <link rel="stylesheet" href="../static/style.css">
+  <link rel="stylesheet" href="../static/login.css">
+  <link rel="stylesheet" href="../static/importer.css">
+  <meta charset="UTF-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
+  <script src="../static/js/registration.js"></script>
+  <script src="../static/js/app.js"></script>
+  <title>RKAligner</title>
+</head>
+<body>
+  <div class="parent">
+    <div class="child">
+      <p class="info_text">
+        Ang RKAligner ay isang mekanismo na awtomatikong naghahanay ng mga katumbas na pangungusap 
+        ng mga wikang Cebuano at Filipino na kung saan nilalayon nitong bumuo ng parallel corpus sa 
+        nasabing mga wika para sa machine translation. Pagkatapos i-upload ang mga source at target 
+        .csv file ng mga wikang Cebuano at Filipino, awtomatiko itong magpapakita ng paghahanay ng 
+        mga katumbas na pangungusap at ang kaukulang iskor nito. Ang RKAligner ay hindi lamang naglalayong 
+        maghanay ng mga pangungusap ngunit maaari rin itong magbigay ng mga pagsasalin kung ang source file 
+        lamang ang tanging magagamit.
+      </p>
+    </div>
+    <div class="child">
+      {% if message %}
+        {{ message }}
+      {% endif %}
+      <div class="yellow_box" id="landing-page__yellow_bot">
+        {% include 'login.html' %}
+        {% include 'registration.html' %}
+        {% include 'importer.html' %}
+      </div>
+    </div> 
+    {% include 'score_table.html' %}
+    {% include 'files_table.html' %}
+  </div>
+</body>
+</html>
