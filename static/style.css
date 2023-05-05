@@ -37,6 +37,41 @@
   margin: auto;
 }
 
+.new-file-btn {
+  position: fixed;
+  height: 50px;
+  width: 50px;
+  right: 10px;
+  bottom: 10px;
+}
+
+.answer-with-score-row {
+  width: 100%;
+}
+.answer-with-score-row {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  padding: 10px 0;
+  width: 100%;
+}
+
+.answer-with-score-row > .score-only {
+  width: 10%;
+}
+
+.selected-answer-editor {
+  display: flex;
+  width: 100%;
+  background: transparent;
+  border-radius: 5px;
+  height: 24px;
+}
+
+.selected-file__top-icons {
+
+}
+
 body{
   margin: 0;
   --color-primary: #14537A;
@@ -290,6 +325,14 @@ table {
   height: 40px;
   top: 100px;
   right: 100px;
+  cursor: pointer;
+}
+
+#admin-edit-files {
+  position: absolute;
+  height: 40px;
+  top: 100px;
+  right: 170px;
   cursor: pointer;
 }
 

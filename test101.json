@@ -1,0 +1,2544 @@
+[
+  {
+      "filename": "roxie1",
+      "username": "brox@gmail.com",
+      "data": [
+          {
+              "text": "Sa dili pa matapos ang Enero, ang kasamtangang taas nga presyo sa sibuyas gipaabot nga mous-os.",
+              "answers": [
+                  {
+                      "answer": "lorem ipsum1",
+                      "score": 0.25
+                  },
+                  {
+                      "answer": "lorem ipsum2",
+                      "score": 0.2
+                  },
+                  {
+                      "answer": "lorem ipsum3",
+                      "score": 0.35
+                  }
+              ]
+          },
+          {
+              "text": "Ang TF Davao nagtinguha nga maabot ang tanang pribado ug publikong mga tinun-an sa elementarya ug high school sa pagpalapad sa kultura sa seguridad sa dakbayan.",
+              "answers": [
+                  {
+                      "answer": "lorem ipsum1",
+                      "score": 0.13
+                  },
+                  {
+                      "answer": "lorem ipsum2",
+                      "score": 0.19
+                  },
+                  {
+                      "answer": "lorem ipsum3",
+                      "score": 0.54
+                  }
+              ]
+          },
+          {
+              "text": "Apan gitataw ni Taya nga ang kaikag sa mga bakwit nga makapauli nasanapan sa tumang kahadlok kay posibleng moulbo pa og balik ang kagubot.",
+              "answers": [
+                  {
+                      "answer": "lorem ipsum1",
+                      "score": 0.24
+                  },
+                  {
+                      "answer": "lorem ipsum2",
+                      "score": 0.45
+                  },
+                  {
+                      "answer": "lorem ipsum3",
+                      "score": 0.12
+                  }
+              ]
+          },
+          {
+              "text": "Sa nakalabay nga Disyembre 2022 nigawas ang resulta sa LET sa bulan sa Oktubre 2022 kon diin 90 porsiyento sa mga nag-top gikan sa Davao Region.",
+              "answers": [
+                  {
+                      "answer": "lorem ipsum1",
+                      "score": 0.16
+                  },
+                  {
+                      "answer": "lorem ipsum2",
+                      "score": 0.18
+                  },
+                  {
+                      "answer": "lorem ipsum3",
+                      "score": 0.22
+                  }
+              ]
+          },
+          {
+              "text": "Nasayran nga gilayong mipuwesto ang langyaw sa pultahan sa maong mall ug tanang moagi nga babaye iyang hanyagan og pagpakasal.",
+              "answers": [
+                  {
+                      "answer": "lorem ipsum1",
+                      "score": 0.31
+                  },
+                  {
+                      "answer": "lorem ipsum2",
+                      "score": 0.21
+                  },
+                  {
+                      "answer": "lorem ipsum3",
+                      "score": 0.41
+                  }
+              ]
+          }
+      ],
+      "date": "2023-03-13T02:02:55.676935"
+  },
+  {
+      "filename": "broxie2",
+      "username": "brox@gmail.com",
+      "data": [
+          {
+              "text": "Sa dili pa matapos ang Enero, ang kasamtangang taas nga presyo sa sibuyas gipaabot nga mous-os.",
+              "answers": [
+                  {
+                      "answer": "lorem ipsum1",
+                      "score": 0.25
+                  },
+                  {
+                      "answer": "lorem ipsum2",
+                      "score": 0.2
+                  },
+                  {
+                      "answer": "lorem ipsum3",
+                      "score": 0.35
+                  }
+              ]
+          },
+          {
+              "text": "Ang TF Davao nagtinguha nga maabot ang tanang pribado ug publikong mga tinun-an sa elementarya ug high school sa pagpalapad sa kultura sa seguridad sa dakbayan.",
+              "answers": [
+                  {
+                      "answer": "lorem ipsum1",
+                      "score": 0.13
+                  },
+                  {
+                      "answer": "lorem ipsum2",
+                      "score": 0.19
+                  },
+                  {
+                      "answer": "lorem ipsum3",
+                      "score": 0.54
+                  }
+              ]
+          },
+          {
+              "text": "Apan gitataw ni Taya nga ang kaikag sa mga bakwit nga makapauli nasanapan sa tumang kahadlok kay posibleng moulbo pa og balik ang kagubot.",
+              "answers": [
+                  {
+                      "answer": "lorem ipsum1",
+                      "score": 0.24
+                  },
+                  {
+                      "answer": "lorem ipsum2",
+                      "score": 0.45
+                  },
+                  {
+                      "answer": "lorem ipsum3",
+                      "score": 0.12
+                  }
+              ]
+          },
+          {
+              "text": "Sa nakalabay nga Disyembre 2022 nigawas ang resulta sa LET sa bulan sa Oktubre 2022 kon diin 90 porsiyento sa mga nag-top gikan sa Davao Region.",
+              "answers": [
+                  {
+                      "answer": "lorem ipsum1",
+                      "score": 0.16
+                  },
+                  {
+                      "answer": "lorem ipsum2",
+                      "score": 0.18
+                  },
+                  {
+                      "answer": "lorem ipsum3",
+                      "score": 0.22
+                  }
+              ]
+          },
+          {
+              "text": "Nasayran nga gilayong mipuwesto ang langyaw sa pultahan sa maong mall ug tanang moagi nga babaye iyang hanyagan og pagpakasal.",
+              "answers": [
+                  {
+                      "answer": "lorem ipsum1",
+                      "score": 0.31
+                  },
+                  {
+                      "answer": "lorem ipsum2",
+                      "score": 0.21
+                  },
+                  {
+                      "answer": "lorem ipsum3",
+                      "score": 0.41
+                  }
+              ]
+          }
+      ],
+      "date": "2023-03-21T13:33:50.850311"
+  },
+  {
+      "filename": "Labaaadd",
+      "username": "brox@gmail.com",
+      "data": [
+          {
+              "text": "Sa dili pa matapos ang Enero, ang kasamtangang taas nga presyo sa sibuyas gipaabot nga mous-os.",
+              "answers": [
+                  {
+                      "Score": 0.86297607421875,
+                      "Target": "Ngunit ipinunto ni Taya na ang kasabikan ng mga evacuees na umuwi ay natatabunan ng pangamba na baka sumiklab muli ang kaguluhan."
+                  },
+                  {
+                      "Score": 0.7736828923225403,
+                      "Target": "Noong nakaraang Disyembre 2022, lumabas ang resulta ng LET para sa buwan ng Oktubre 2022 kung saan 90 porsiyento ng mga nanguna ay mula sa Rehiyon ng Davao."
+                  },
+                  {
+                      "Score": 0.9499531388282776,
+                      "Target": "Bago matapos ang Enero, inaasahang bababa ang kasalukuyang mataas na presyo ng sibuyas."
+                  }
+              ]
+          },
+          {
+              "text": "Sa dili pa matapos ang Enero, ang kasamtangang taas nga presyo sa sibuyas gipaabot nga mous-os.",
+              "answers": [
+                  {
+                      "Score": 0.86297607421875,
+                      "Target": "Ngunit ipinunto ni Taya na ang kasabikan ng mga evacuees na umuwi ay natatabunan ng pangamba na baka sumiklab muli ang kaguluhan."
+                  },
+                  {
+                      "Score": 0.7736828923225403,
+                      "Target": "Noong nakaraang Disyembre 2022, lumabas ang resulta ng LET para sa buwan ng Oktubre 2022 kung saan 90 porsiyento ng mga nanguna ay mula sa Rehiyon ng Davao."
+                  },
+                  {
+                      "Score": 0.9499531388282776,
+                      "Target": "Bago matapos ang Enero, inaasahang bababa ang kasalukuyang mataas na presyo ng sibuyas."
+                  }
+              ]
+          },
+          {
+              "text": "Sa dili pa matapos ang Enero, ang kasamtangang taas nga presyo sa sibuyas gipaabot nga mous-os.",
+              "answers": [
+                  {
+                      "Score": 0.86297607421875,
+                      "Target": "Ngunit ipinunto ni Taya na ang kasabikan ng mga evacuees na umuwi ay natatabunan ng pangamba na baka sumiklab muli ang kaguluhan."
+                  },
+                  {
+                      "Score": 0.7736828923225403,
+                      "Target": "Noong nakaraang Disyembre 2022, lumabas ang resulta ng LET para sa buwan ng Oktubre 2022 kung saan 90 porsiyento ng mga nanguna ay mula sa Rehiyon ng Davao."
+                  },
+                  {
+                      "Score": 0.9499531388282776,
+                      "Target": "Bago matapos ang Enero, inaasahang bababa ang kasalukuyang mataas na presyo ng sibuyas."
+                  }
+              ]
+          },
+          {
+              "text": "Ang TF Davao nagtinguha nga maabot ang tanang pribado ug publikong mga tinun-an sa elementarya ug high school sa pagpalapad sa kultura sa seguridad sa dakbayan.",
+              "answers": [
+                  {
+                      "Score": 0.6549444794654846,
+                      "Target": "Noong nakaraang Disyembre 2022, lumabas ang resulta ng LET para sa buwan ng Oktubre 2022 kung saan 90 porsiyento ng mga nanguna ay mula sa Rehiyon ng Davao."
+                  },
+                  {
+                      "Score": 0.9192172288894653,
+                      "Target": "Hinahangad ng TF Davao na aabot sa lahat ng pribado at pampublikong mag-aaral sa elementarya at hayskul upang palawakin ang kultura ng seguridad ng lungsod."
+                  },
+                  {
+                      "Score": 0.6831075549125671,
+                      "Target": "Bago matapos ang Enero, inaasahang bababa ang kasalukuyang mataas na presyo ng sibuyas."
+                  }
+              ]
+          },
+          {
+              "text": "Ang TF Davao nagtinguha nga maabot ang tanang pribado ug publikong mga tinun-an sa elementarya ug high school sa pagpalapad sa kultura sa seguridad sa dakbayan.",
+              "answers": [
+                  {
+                      "Score": 0.6549444794654846,
+                      "Target": "Noong nakaraang Disyembre 2022, lumabas ang resulta ng LET para sa buwan ng Oktubre 2022 kung saan 90 porsiyento ng mga nanguna ay mula sa Rehiyon ng Davao."
+                  },
+                  {
+                      "Score": 0.9192172288894653,
+                      "Target": "Hinahangad ng TF Davao na aabot sa lahat ng pribado at pampublikong mag-aaral sa elementarya at hayskul upang palawakin ang kultura ng seguridad ng lungsod."
+                  },
+                  {
+                      "Score": 0.6831075549125671,
+                      "Target": "Bago matapos ang Enero, inaasahang bababa ang kasalukuyang mataas na presyo ng sibuyas."
+                  }
+              ]
+          },
+          {
+              "text": "Ang TF Davao nagtinguha nga maabot ang tanang pribado ug publikong mga tinun-an sa elementarya ug high school sa pagpalapad sa kultura sa seguridad sa dakbayan.",
+              "answers": [
+                  {
+                      "Score": 0.6549444794654846,
+                      "Target": "Noong nakaraang Disyembre 2022, lumabas ang resulta ng LET para sa buwan ng Oktubre 2022 kung saan 90 porsiyento ng mga nanguna ay mula sa Rehiyon ng Davao."
+                  },
+                  {
+                      "Score": 0.9192172288894653,
+                      "Target": "Hinahangad ng TF Davao na aabot sa lahat ng pribado at pampublikong mag-aaral sa elementarya at hayskul upang palawakin ang kultura ng seguridad ng lungsod."
+                  },
+                  {
+                      "Score": 0.6831075549125671,
+                      "Target": "Bago matapos ang Enero, inaasahang bababa ang kasalukuyang mataas na presyo ng sibuyas."
+                  }
+              ]
+          },
+          {
+              "text": "Apan gitataw ni Taya nga ang kaikag sa mga bakwit nga makapauli nasanapan sa tumang kahadlok kay posibleng moulbo pa og balik ang kagubot.",
+              "answers": [
+                  {
+                      "Score": 0.9072138071060181,
+                      "Target": "Ngunit ipinunto ni Taya na ang kasabikan ng mga evacuees na umuwi ay natatabunan ng pangamba na baka sumiklab muli ang kaguluhan."
+                  },
+                  {
+                      "Score": 0.7799489498138428,
+                      "Target": "Noong nakaraang Disyembre 2022, lumabas ang resulta ng LET para sa buwan ng Oktubre 2022 kung saan 90 porsiyento ng mga nanguna ay mula sa Rehiyon ng Davao."
+                  },
+                  {
+                      "Score": 0.9294612407684326,
+                      "Target": "Bago matapos ang Enero, inaasahang bababa ang kasalukuyang mataas na presyo ng sibuyas."
+                  }
+              ]
+          },
+          {
+              "text": "Apan gitataw ni Taya nga ang kaikag sa mga bakwit nga makapauli nasanapan sa tumang kahadlok kay posibleng moulbo pa og balik ang kagubot.",
+              "answers": [
+                  {
+                      "Score": 0.9072138071060181,
+                      "Target": "Ngunit ipinunto ni Taya na ang kasabikan ng mga evacuees na umuwi ay natatabunan ng pangamba na baka sumiklab muli ang kaguluhan."
+                  },
+                  {
+                      "Score": 0.7799489498138428,
+                      "Target": "Noong nakaraang Disyembre 2022, lumabas ang resulta ng LET para sa buwan ng Oktubre 2022 kung saan 90 porsiyento ng mga nanguna ay mula sa Rehiyon ng Davao."
+                  },
+                  {
+                      "Score": 0.9294612407684326,
+                      "Target": "Bago matapos ang Enero, inaasahang bababa ang kasalukuyang mataas na presyo ng sibuyas."
+                  }
+              ]
+          },
+          {
+              "text": "Apan gitataw ni Taya nga ang kaikag sa mga bakwit nga makapauli nasanapan sa tumang kahadlok kay posibleng moulbo pa og balik ang kagubot.",
+              "answers": [
+                  {
+                      "Score": 0.9072138071060181,
+                      "Target": "Ngunit ipinunto ni Taya na ang kasabikan ng mga evacuees na umuwi ay natatabunan ng pangamba na baka sumiklab muli ang kaguluhan."
+                  },
+                  {
+                      "Score": 0.7799489498138428,
+                      "Target": "Noong nakaraang Disyembre 2022, lumabas ang resulta ng LET para sa buwan ng Oktubre 2022 kung saan 90 porsiyento ng mga nanguna ay mula sa Rehiyon ng Davao."
+                  },
+                  {
+                      "Score": 0.9294612407684326,
+                      "Target": "Bago matapos ang Enero, inaasahang bababa ang kasalukuyang mataas na presyo ng sibuyas."
+                  }
+              ]
+          },
+          {
+              "text": "Sa nakalabay nga Disyembre 2022 nigawas ang resulta sa LET sa bulan sa Oktubre 2022 kon diin 90 porsiyento sa mga nag-top gikan sa Davao Region.",
+              "answers": [
+                  {
+                      "Score": 0.9670059084892273,
+                      "Target": "Noong nakaraang Disyembre 2022, lumabas ang resulta ng LET para sa buwan ng Oktubre 2022 kung saan 90 porsiyento ng mga nanguna ay mula sa Rehiyon ng Davao."
+                  },
+                  {
+                      "Score": 0.6873037219047546,
+                      "Target": "Hinahangad ng TF Davao na aabot sa lahat ng pribado at pampublikong mag-aaral sa elementarya at hayskul upang palawakin ang kultura ng seguridad ng lungsod."
+                  },
+                  {
+                      "Score": 0.7554261088371277,
+                      "Target": "Bago matapos ang Enero, inaasahang bababa ang kasalukuyang mataas na presyo ng sibuyas."
+                  }
+              ]
+          },
+          {
+              "text": "Sa nakalabay nga Disyembre 2022 nigawas ang resulta sa LET sa bulan sa Oktubre 2022 kon diin 90 porsiyento sa mga nag-top gikan sa Davao Region.",
+              "answers": [
+                  {
+                      "Score": 0.9670059084892273,
+                      "Target": "Noong nakaraang Disyembre 2022, lumabas ang resulta ng LET para sa buwan ng Oktubre 2022 kung saan 90 porsiyento ng mga nanguna ay mula sa Rehiyon ng Davao."
+                  },
+                  {
+                      "Score": 0.6873037219047546,
+                      "Target": "Hinahangad ng TF Davao na aabot sa lahat ng pribado at pampublikong mag-aaral sa elementarya at hayskul upang palawakin ang kultura ng seguridad ng lungsod."
+                  },
+                  {
+                      "Score": 0.7554261088371277,
+                      "Target": "Bago matapos ang Enero, inaasahang bababa ang kasalukuyang mataas na presyo ng sibuyas."
+                  }
+              ]
+          },
+          {
+              "text": "Sa nakalabay nga Disyembre 2022 nigawas ang resulta sa LET sa bulan sa Oktubre 2022 kon diin 90 porsiyento sa mga nag-top gikan sa Davao Region.",
+              "answers": [
+                  {
+                      "Score": 0.9670059084892273,
+                      "Target": "Noong nakaraang Disyembre 2022, lumabas ang resulta ng LET para sa buwan ng Oktubre 2022 kung saan 90 porsiyento ng mga nanguna ay mula sa Rehiyon ng Davao."
+                  },
+                  {
+                      "Score": 0.6873037219047546,
+                      "Target": "Hinahangad ng TF Davao na aabot sa lahat ng pribado at pampublikong mag-aaral sa elementarya at hayskul upang palawakin ang kultura ng seguridad ng lungsod."
+                  },
+                  {
+                      "Score": 0.7554261088371277,
+                      "Target": "Bago matapos ang Enero, inaasahang bababa ang kasalukuyang mataas na presyo ng sibuyas."
+                  }
+              ]
+          },
+          {
+              "text": "Nasayran nga gilayong mipuwesto ang langyaw sa pultahan sa maong mall ug tanang moagi nga babaye iyang hanyagan og pagpakasal.",
+              "answers": [
+                  {
+                      "Score": 0.7302664518356323,
+                      "Target": "Ngunit ipinunto ni Taya na ang kasabikan ng mga evacuees na umuwi ay natatabunan ng pangamba na baka sumiklab muli ang kaguluhan."
+                  },
+                  {
+                      "Score": 0.935965359210968,
+                      "Target": "Nabatid na agad na pumwesto ang dayuhan sa pintuan ng mall at pinakiusapan ang lahat ng dumadaang babae na pakasalan siya."
+                  },
+                  {
+                      "Score": 0.7773348689079285,
+                      "Target": "Bago matapos ang Enero, inaasahang bababa ang kasalukuyang mataas na presyo ng sibuyas."
+                  }
+              ]
+          },
+          {
+              "text": "Nasayran nga gilayong mipuwesto ang langyaw sa pultahan sa maong mall ug tanang moagi nga babaye iyang hanyagan og pagpakasal.",
+              "answers": [
+                  {
+                      "Score": 0.7302664518356323,
+                      "Target": "Ngunit ipinunto ni Taya na ang kasabikan ng mga evacuees na umuwi ay natatabunan ng pangamba na baka sumiklab muli ang kaguluhan."
+                  },
+                  {
+                      "Score": 0.935965359210968,
+                      "Target": "Nabatid na agad na pumwesto ang dayuhan sa pintuan ng mall at pinakiusapan ang lahat ng dumadaang babae na pakasalan siya."
+                  },
+                  {
+                      "Score": 0.7773348689079285,
+                      "Target": "Bago matapos ang Enero, inaasahang bababa ang kasalukuyang mataas na presyo ng sibuyas."
+                  }
+              ]
+          },
+          {
+              "text": "Nasayran nga gilayong mipuwesto ang langyaw sa pultahan sa maong mall ug tanang moagi nga babaye iyang hanyagan og pagpakasal.",
+              "answers": [
+                  {
+                      "Score": 0.7302664518356323,
+                      "Target": "Ngunit ipinunto ni Taya na ang kasabikan ng mga evacuees na umuwi ay natatabunan ng pangamba na baka sumiklab muli ang kaguluhan."
+                  },
+                  {
+                      "Score": 0.935965359210968,
+                      "Target": "Nabatid na agad na pumwesto ang dayuhan sa pintuan ng mall at pinakiusapan ang lahat ng dumadaang babae na pakasalan siya."
+                  },
+                  {
+                      "Score": 0.7773348689079285,
+                      "Target": "Bago matapos ang Enero, inaasahang bababa ang kasalukuyang mataas na presyo ng sibuyas."
+                  }
+              ]
+          }
+      ],
+      "date": "2023-04-27T14:20:17.397929"
+  },
+  {
+      "filename": "ngano di mag save?",
+      "username": "brox@gmail.com",
+      "data": [
+          {
+              "text": "Sa dili pa matapos ang Enero, ang kasamtangang taas nga presyo sa sibuyas gipaabot nga mous-os.",
+              "answers": [
+                  {
+                      "Score": 0.86297607421875,
+                      "Target": "Ngunit ipinunto ni Taya na ang kasabikan ng mga evacuees na umuwi ay natatabunan ng pangamba na baka sumiklab muli ang kaguluhan."
+                  },
+                  {
+                      "Score": 0.7736828923225403,
+                      "Target": "Noong nakaraang Disyembre 2022, lumabas ang resulta ng LET para sa buwan ng Oktubre 2022 kung saan 90 porsiyento ng mga nanguna ay mula sa Rehiyon ng Davao."
+                  },
+                  {
+                      "Score": 0.9499531388282776,
+                      "Target": "Bago matapos ang Enero, inaasahang bababa ang kasalukuyang mataas na presyo ng sibuyas."
+                  }
+              ]
+          },
+          {
+              "text": "Sa dili pa matapos ang Enero, ang kasamtangang taas nga presyo sa sibuyas gipaabot nga mous-os.",
+              "answers": [
+                  {
+                      "Score": 0.86297607421875,
+                      "Target": "Ngunit ipinunto ni Taya na ang kasabikan ng mga evacuees na umuwi ay natatabunan ng pangamba na baka sumiklab muli ang kaguluhan."
+                  },
+                  {
+                      "Score": 0.7736828923225403,
+                      "Target": "Noong nakaraang Disyembre 2022, lumabas ang resulta ng LET para sa buwan ng Oktubre 2022 kung saan 90 porsiyento ng mga nanguna ay mula sa Rehiyon ng Davao."
+                  },
+                  {
+                      "Score": 0.9499531388282776,
+                      "Target": "Bago matapos ang Enero, inaasahang bababa ang kasalukuyang mataas na presyo ng sibuyas."
+                  }
+              ]
+          },
+          {
+              "text": "Sa dili pa matapos ang Enero, ang kasamtangang taas nga presyo sa sibuyas gipaabot nga mous-os.",
+              "answers": [
+                  {
+                      "Score": 0.86297607421875,
+                      "Target": "Ngunit ipinunto ni Taya na ang kasabikan ng mga evacuees na umuwi ay natatabunan ng pangamba na baka sumiklab muli ang kaguluhan."
+                  },
+                  {
+                      "Score": 0.7736828923225403,
+                      "Target": "Noong nakaraang Disyembre 2022, lumabas ang resulta ng LET para sa buwan ng Oktubre 2022 kung saan 90 porsiyento ng mga nanguna ay mula sa Rehiyon ng Davao."
+                  },
+                  {
+                      "Score": 0.9499531388282776,
+                      "Target": "Bago matapos ang Enero, inaasahang bababa ang kasalukuyang mataas na presyo ng sibuyas."
+                  }
+              ]
+          },
+          {
+              "text": "Ang TF Davao nagtinguha nga maabot ang tanang pribado ug publikong mga tinun-an sa elementarya ug high school sa pagpalapad sa kultura sa seguridad sa dakbayan.",
+              "answers": [
+                  {
+                      "Score": 0.6549444794654846,
+                      "Target": "Noong nakaraang Disyembre 2022, lumabas ang resulta ng LET para sa buwan ng Oktubre 2022 kung saan 90 porsiyento ng mga nanguna ay mula sa Rehiyon ng Davao."
+                  },
+                  {
+                      "Score": 0.9192172288894653,
+                      "Target": "Hinahangad ng TF Davao na aabot sa lahat ng pribado at pampublikong mag-aaral sa elementarya at hayskul upang palawakin ang kultura ng seguridad ng lungsod."
+                  },
+                  {
+                      "Score": 0.6831075549125671,
+                      "Target": "Bago matapos ang Enero, inaasahang bababa ang kasalukuyang mataas na presyo ng sibuyas."
+                  }
+              ]
+          },
+          {
+              "text": "Ang TF Davao nagtinguha nga maabot ang tanang pribado ug publikong mga tinun-an sa elementarya ug high school sa pagpalapad sa kultura sa seguridad sa dakbayan.",
+              "answers": [
+                  {
+                      "Score": 0.6549444794654846,
+                      "Target": "Noong nakaraang Disyembre 2022, lumabas ang resulta ng LET para sa buwan ng Oktubre 2022 kung saan 90 porsiyento ng mga nanguna ay mula sa Rehiyon ng Davao."
+                  },
+                  {
+                      "Score": 0.9192172288894653,
+                      "Target": "Hinahangad ng TF Davao na aabot sa lahat ng pribado at pampublikong mag-aaral sa elementarya at hayskul upang palawakin ang kultura ng seguridad ng lungsod."
+                  },
+                  {
+                      "Score": 0.6831075549125671,
+                      "Target": "Bago matapos ang Enero, inaasahang bababa ang kasalukuyang mataas na presyo ng sibuyas."
+                  }
+              ]
+          },
+          {
+              "text": "Ang TF Davao nagtinguha nga maabot ang tanang pribado ug publikong mga tinun-an sa elementarya ug high school sa pagpalapad sa kultura sa seguridad sa dakbayan.",
+              "answers": [
+                  {
+                      "Score": 0.6549444794654846,
+                      "Target": "Noong nakaraang Disyembre 2022, lumabas ang resulta ng LET para sa buwan ng Oktubre 2022 kung saan 90 porsiyento ng mga nanguna ay mula sa Rehiyon ng Davao."
+                  },
+                  {
+                      "Score": 0.9192172288894653,
+                      "Target": "Hinahangad ng TF Davao na aabot sa lahat ng pribado at pampublikong mag-aaral sa elementarya at hayskul upang palawakin ang kultura ng seguridad ng lungsod."
+                  },
+                  {
+                      "Score": 0.6831075549125671,
+                      "Target": "Bago matapos ang Enero, inaasahang bababa ang kasalukuyang mataas na presyo ng sibuyas."
+                  }
+              ]
+          },
+          {
+              "text": "Apan gitataw ni Taya nga ang kaikag sa mga bakwit nga makapauli nasanapan sa tumang kahadlok kay posibleng moulbo pa og balik ang kagubot.",
+              "answers": [
+                  {
+                      "Score": 0.9072138071060181,
+                      "Target": "Ngunit ipinunto ni Taya na ang kasabikan ng mga evacuees na umuwi ay natatabunan ng pangamba na baka sumiklab muli ang kaguluhan."
+                  },
+                  {
+                      "Score": 0.7799489498138428,
+                      "Target": "Noong nakaraang Disyembre 2022, lumabas ang resulta ng LET para sa buwan ng Oktubre 2022 kung saan 90 porsiyento ng mga nanguna ay mula sa Rehiyon ng Davao."
+                  },
+                  {
+                      "Score": 0.9294612407684326,
+                      "Target": "Bago matapos ang Enero, inaasahang bababa ang kasalukuyang mataas na presyo ng sibuyas."
+                  }
+              ]
+          },
+          {
+              "text": "Apan gitataw ni Taya nga ang kaikag sa mga bakwit nga makapauli nasanapan sa tumang kahadlok kay posibleng moulbo pa og balik ang kagubot.",
+              "answers": [
+                  {
+                      "Score": 0.9072138071060181,
+                      "Target": "Ngunit ipinunto ni Taya na ang kasabikan ng mga evacuees na umuwi ay natatabunan ng pangamba na baka sumiklab muli ang kaguluhan."
+                  },
+                  {
+                      "Score": 0.7799489498138428,
+                      "Target": "Noong nakaraang Disyembre 2022, lumabas ang resulta ng LET para sa buwan ng Oktubre 2022 kung saan 90 porsiyento ng mga nanguna ay mula sa Rehiyon ng Davao."
+                  },
+                  {
+                      "Score": 0.9294612407684326,
+                      "Target": "Bago matapos ang Enero, inaasahang bababa ang kasalukuyang mataas na presyo ng sibuyas."
+                  }
+              ]
+          },
+          {
+              "text": "Apan gitataw ni Taya nga ang kaikag sa mga bakwit nga makapauli nasanapan sa tumang kahadlok kay posibleng moulbo pa og balik ang kagubot.",
+              "answers": [
+                  {
+                      "Score": 0.9072138071060181,
+                      "Target": "Ngunit ipinunto ni Taya na ang kasabikan ng mga evacuees na umuwi ay natatabunan ng pangamba na baka sumiklab muli ang kaguluhan."
+                  },
+                  {
+                      "Score": 0.7799489498138428,
+                      "Target": "Noong nakaraang Disyembre 2022, lumabas ang resulta ng LET para sa buwan ng Oktubre 2022 kung saan 90 porsiyento ng mga nanguna ay mula sa Rehiyon ng Davao."
+                  },
+                  {
+                      "Score": 0.9294612407684326,
+                      "Target": "Bago matapos ang Enero, inaasahang bababa ang kasalukuyang mataas na presyo ng sibuyas."
+                  }
+              ]
+          },
+          {
+              "text": "Sa nakalabay nga Disyembre 2022 nigawas ang resulta sa LET sa bulan sa Oktubre 2022 kon diin 90 porsiyento sa mga nag-top gikan sa Davao Region.",
+              "answers": [
+                  {
+                      "Score": 0.9670059084892273,
+                      "Target": "Noong nakaraang Disyembre 2022, lumabas ang resulta ng LET para sa buwan ng Oktubre 2022 kung saan 90 porsiyento ng mga nanguna ay mula sa Rehiyon ng Davao."
+                  },
+                  {
+                      "Score": 0.6873037219047546,
+                      "Target": "Hinahangad ng TF Davao na aabot sa lahat ng pribado at pampublikong mag-aaral sa elementarya at hayskul upang palawakin ang kultura ng seguridad ng lungsod."
+                  },
+                  {
+                      "Score": 0.7554261088371277,
+                      "Target": "Bago matapos ang Enero, inaasahang bababa ang kasalukuyang mataas na presyo ng sibuyas."
+                  }
+              ]
+          },
+          {
+              "text": "Sa nakalabay nga Disyembre 2022 nigawas ang resulta sa LET sa bulan sa Oktubre 2022 kon diin 90 porsiyento sa mga nag-top gikan sa Davao Region.",
+              "answers": [
+                  {
+                      "Score": 0.9670059084892273,
+                      "Target": "Noong nakaraang Disyembre 2022, lumabas ang resulta ng LET para sa buwan ng Oktubre 2022 kung saan 90 porsiyento ng mga nanguna ay mula sa Rehiyon ng Davao."
+                  },
+                  {
+                      "Score": 0.6873037219047546,
+                      "Target": "Hinahangad ng TF Davao na aabot sa lahat ng pribado at pampublikong mag-aaral sa elementarya at hayskul upang palawakin ang kultura ng seguridad ng lungsod."
+                  },
+                  {
+                      "Score": 0.7554261088371277,
+                      "Target": "Bago matapos ang Enero, inaasahang bababa ang kasalukuyang mataas na presyo ng sibuyas."
+                  }
+              ]
+          },
+          {
+              "text": "Sa nakalabay nga Disyembre 2022 nigawas ang resulta sa LET sa bulan sa Oktubre 2022 kon diin 90 porsiyento sa mga nag-top gikan sa Davao Region.",
+              "answers": [
+                  {
+                      "Score": 0.9670059084892273,
+                      "Target": "Noong nakaraang Disyembre 2022, lumabas ang resulta ng LET para sa buwan ng Oktubre 2022 kung saan 90 porsiyento ng mga nanguna ay mula sa Rehiyon ng Davao."
+                  },
+                  {
+                      "Score": 0.6873037219047546,
+                      "Target": "Hinahangad ng TF Davao na aabot sa lahat ng pribado at pampublikong mag-aaral sa elementarya at hayskul upang palawakin ang kultura ng seguridad ng lungsod."
+                  },
+                  {
+                      "Score": 0.7554261088371277,
+                      "Target": "Bago matapos ang Enero, inaasahang bababa ang kasalukuyang mataas na presyo ng sibuyas."
+                  }
+              ]
+          },
+          {
+              "text": "Nasayran nga gilayong mipuwesto ang langyaw sa pultahan sa maong mall ug tanang moagi nga babaye iyang hanyagan og pagpakasal.",
+              "answers": [
+                  {
+                      "Score": 0.7302664518356323,
+                      "Target": "Ngunit ipinunto ni Taya na ang kasabikan ng mga evacuees na umuwi ay natatabunan ng pangamba na baka sumiklab muli ang kaguluhan."
+                  },
+                  {
+                      "Score": 0.935965359210968,
+                      "Target": "Nabatid na agad na pumwesto ang dayuhan sa pintuan ng mall at pinakiusapan ang lahat ng dumadaang babae na pakasalan siya."
+                  },
+                  {
+                      "Score": 0.7773348689079285,
+                      "Target": "Bago matapos ang Enero, inaasahang bababa ang kasalukuyang mataas na presyo ng sibuyas."
+                  }
+              ]
+          },
+          {
+              "text": "Nasayran nga gilayong mipuwesto ang langyaw sa pultahan sa maong mall ug tanang moagi nga babaye iyang hanyagan og pagpakasal.",
+              "answers": [
+                  {
+                      "Score": 0.7302664518356323,
+                      "Target": "Ngunit ipinunto ni Taya na ang kasabikan ng mga evacuees na umuwi ay natatabunan ng pangamba na baka sumiklab muli ang kaguluhan."
+                  },
+                  {
+                      "Score": 0.935965359210968,
+                      "Target": "Nabatid na agad na pumwesto ang dayuhan sa pintuan ng mall at pinakiusapan ang lahat ng dumadaang babae na pakasalan siya."
+                  },
+                  {
+                      "Score": 0.7773348689079285,
+                      "Target": "Bago matapos ang Enero, inaasahang bababa ang kasalukuyang mataas na presyo ng sibuyas."
+                  }
+              ]
+          },
+          {
+              "text": "Nasayran nga gilayong mipuwesto ang langyaw sa pultahan sa maong mall ug tanang moagi nga babaye iyang hanyagan og pagpakasal.",
+              "answers": [
+                  {
+                      "Score": 0.7302664518356323,
+                      "Target": "Ngunit ipinunto ni Taya na ang kasabikan ng mga evacuees na umuwi ay natatabunan ng pangamba na baka sumiklab muli ang kaguluhan."
+                  },
+                  {
+                      "Score": 0.935965359210968,
+                      "Target": "Nabatid na agad na pumwesto ang dayuhan sa pintuan ng mall at pinakiusapan ang lahat ng dumadaang babae na pakasalan siya."
+                  },
+                  {
+                      "Score": 0.7773348689079285,
+                      "Target": "Bago matapos ang Enero, inaasahang bababa ang kasalukuyang mataas na presyo ng sibuyas."
+                  }
+              ]
+          }
+      ],
+      "date": "2023-04-27T15:32:51.411824"
+  },
+  {
+      "filename": "please download",
+      "username": "brox@gmail.com",
+      "data": [
+          {
+              "text": "Sa dili pa matapos ang Enero, ang kasamtangang taas nga presyo sa sibuyas gipaabot nga mous-os.",
+              "answers": [
+                  {
+                      "Score": 0.86297607421875,
+                      "Target": "Ngunit ipinunto ni Taya na ang kasabikan ng mga evacuees na umuwi ay natatabunan ng pangamba na baka sumiklab muli ang kaguluhan."
+                  },
+                  {
+                      "Score": 0.7736828923225403,
+                      "Target": "Noong nakaraang Disyembre 2022, lumabas ang resulta ng LET para sa buwan ng Oktubre 2022 kung saan 90 porsiyento ng mga nanguna ay mula sa Rehiyon ng Davao."
+                  },
+                  {
+                      "Score": 0.9499531388282776,
+                      "Target": "Bago matapos ang Enero, inaasahang bababa ang kasalukuyang mataas na presyo ng sibuyas."
+                  }
+              ]
+          },
+          {
+              "text": "Sa dili pa matapos ang Enero, ang kasamtangang taas nga presyo sa sibuyas gipaabot nga mous-os.",
+              "answers": [
+                  {
+                      "Score": 0.86297607421875,
+                      "Target": "Ngunit ipinunto ni Taya na ang kasabikan ng mga evacuees na umuwi ay natatabunan ng pangamba na baka sumiklab muli ang kaguluhan."
+                  },
+                  {
+                      "Score": 0.7736828923225403,
+                      "Target": "Noong nakaraang Disyembre 2022, lumabas ang resulta ng LET para sa buwan ng Oktubre 2022 kung saan 90 porsiyento ng mga nanguna ay mula sa Rehiyon ng Davao."
+                  },
+                  {
+                      "Score": 0.9499531388282776,
+                      "Target": "Bago matapos ang Enero, inaasahang bababa ang kasalukuyang mataas na presyo ng sibuyas."
+                  }
+              ]
+          },
+          {
+              "text": "Sa dili pa matapos ang Enero, ang kasamtangang taas nga presyo sa sibuyas gipaabot nga mous-os.",
+              "answers": [
+                  {
+                      "Score": 0.86297607421875,
+                      "Target": "Ngunit ipinunto ni Taya na ang kasabikan ng mga evacuees na umuwi ay natatabunan ng pangamba na baka sumiklab muli ang kaguluhan."
+                  },
+                  {
+                      "Score": 0.7736828923225403,
+                      "Target": "Noong nakaraang Disyembre 2022, lumabas ang resulta ng LET para sa buwan ng Oktubre 2022 kung saan 90 porsiyento ng mga nanguna ay mula sa Rehiyon ng Davao."
+                  },
+                  {
+                      "Score": 0.9499531388282776,
+                      "Target": "Bago matapos ang Enero, inaasahang bababa ang kasalukuyang mataas na presyo ng sibuyas."
+                  }
+              ]
+          },
+          {
+              "text": "Ang TF Davao nagtinguha nga maabot ang tanang pribado ug publikong mga tinun-an sa elementarya ug high school sa pagpalapad sa kultura sa seguridad sa dakbayan.",
+              "answers": [
+                  {
+                      "Score": 0.6549444794654846,
+                      "Target": "Noong nakaraang Disyembre 2022, lumabas ang resulta ng LET para sa buwan ng Oktubre 2022 kung saan 90 porsiyento ng mga nanguna ay mula sa Rehiyon ng Davao."
+                  },
+                  {
+                      "Score": 0.9192172288894653,
+                      "Target": "Hinahangad ng TF Davao na aabot sa lahat ng pribado at pampublikong mag-aaral sa elementarya at hayskul upang palawakin ang kultura ng seguridad ng lungsod."
+                  },
+                  {
+                      "Score": 0.6831075549125671,
+                      "Target": "Bago matapos ang Enero, inaasahang bababa ang kasalukuyang mataas na presyo ng sibuyas."
+                  }
+              ]
+          },
+          {
+              "text": "Ang TF Davao nagtinguha nga maabot ang tanang pribado ug publikong mga tinun-an sa elementarya ug high school sa pagpalapad sa kultura sa seguridad sa dakbayan.",
+              "answers": [
+                  {
+                      "Score": 0.6549444794654846,
+                      "Target": "Noong nakaraang Disyembre 2022, lumabas ang resulta ng LET para sa buwan ng Oktubre 2022 kung saan 90 porsiyento ng mga nanguna ay mula sa Rehiyon ng Davao."
+                  },
+                  {
+                      "Score": 0.9192172288894653,
+                      "Target": "Hinahangad ng TF Davao na aabot sa lahat ng pribado at pampublikong mag-aaral sa elementarya at hayskul upang palawakin ang kultura ng seguridad ng lungsod."
+                  },
+                  {
+                      "Score": 0.6831075549125671,
+                      "Target": "Bago matapos ang Enero, inaasahang bababa ang kasalukuyang mataas na presyo ng sibuyas."
+                  }
+              ]
+          },
+          {
+              "text": "Ang TF Davao nagtinguha nga maabot ang tanang pribado ug publikong mga tinun-an sa elementarya ug high school sa pagpalapad sa kultura sa seguridad sa dakbayan.",
+              "answers": [
+                  {
+                      "Score": 0.6549444794654846,
+                      "Target": "Noong nakaraang Disyembre 2022, lumabas ang resulta ng LET para sa buwan ng Oktubre 2022 kung saan 90 porsiyento ng mga nanguna ay mula sa Rehiyon ng Davao."
+                  },
+                  {
+                      "Score": 0.9192172288894653,
+                      "Target": "Hinahangad ng TF Davao na aabot sa lahat ng pribado at pampublikong mag-aaral sa elementarya at hayskul upang palawakin ang kultura ng seguridad ng lungsod."
+                  },
+                  {
+                      "Score": 0.6831075549125671,
+                      "Target": "Bago matapos ang Enero, inaasahang bababa ang kasalukuyang mataas na presyo ng sibuyas."
+                  }
+              ]
+          },
+          {
+              "text": "Apan gitataw ni Taya nga ang kaikag sa mga bakwit nga makapauli nasanapan sa tumang kahadlok kay posibleng moulbo pa og balik ang kagubot.",
+              "answers": [
+                  {
+                      "Score": 0.9072138071060181,
+                      "Target": "Ngunit ipinunto ni Taya na ang kasabikan ng mga evacuees na umuwi ay natatabunan ng pangamba na baka sumiklab muli ang kaguluhan."
+                  },
+                  {
+                      "Score": 0.7799489498138428,
+                      "Target": "Noong nakaraang Disyembre 2022, lumabas ang resulta ng LET para sa buwan ng Oktubre 2022 kung saan 90 porsiyento ng mga nanguna ay mula sa Rehiyon ng Davao."
+                  },
+                  {
+                      "Score": 0.9294612407684326,
+                      "Target": "Bago matapos ang Enero, inaasahang bababa ang kasalukuyang mataas na presyo ng sibuyas."
+                  }
+              ]
+          },
+          {
+              "text": "Apan gitataw ni Taya nga ang kaikag sa mga bakwit nga makapauli nasanapan sa tumang kahadlok kay posibleng moulbo pa og balik ang kagubot.",
+              "answers": [
+                  {
+                      "Score": 0.9072138071060181,
+                      "Target": "Ngunit ipinunto ni Taya na ang kasabikan ng mga evacuees na umuwi ay natatabunan ng pangamba na baka sumiklab muli ang kaguluhan."
+                  },
+                  {
+                      "Score": 0.7799489498138428,
+                      "Target": "Noong nakaraang Disyembre 2022, lumabas ang resulta ng LET para sa buwan ng Oktubre 2022 kung saan 90 porsiyento ng mga nanguna ay mula sa Rehiyon ng Davao."
+                  },
+                  {
+                      "Score": 0.9294612407684326,
+                      "Target": "Bago matapos ang Enero, inaasahang bababa ang kasalukuyang mataas na presyo ng sibuyas."
+                  }
+              ]
+          },
+          {
+              "text": "Apan gitataw ni Taya nga ang kaikag sa mga bakwit nga makapauli nasanapan sa tumang kahadlok kay posibleng moulbo pa og balik ang kagubot.",
+              "answers": [
+                  {
+                      "Score": 0.9072138071060181,
+                      "Target": "Ngunit ipinunto ni Taya na ang kasabikan ng mga evacuees na umuwi ay natatabunan ng pangamba na baka sumiklab muli ang kaguluhan."
+                  },
+                  {
+                      "Score": 0.7799489498138428,
+                      "Target": "Noong nakaraang Disyembre 2022, lumabas ang resulta ng LET para sa buwan ng Oktubre 2022 kung saan 90 porsiyento ng mga nanguna ay mula sa Rehiyon ng Davao."
+                  },
+                  {
+                      "Score": 0.9294612407684326,
+                      "Target": "Bago matapos ang Enero, inaasahang bababa ang kasalukuyang mataas na presyo ng sibuyas."
+                  }
+              ]
+          },
+          {
+              "text": "Sa nakalabay nga Disyembre 2022 nigawas ang resulta sa LET sa bulan sa Oktubre 2022 kon diin 90 porsiyento sa mga nag-top gikan sa Davao Region.",
+              "answers": [
+                  {
+                      "Score": 0.9670059084892273,
+                      "Target": "Noong nakaraang Disyembre 2022, lumabas ang resulta ng LET para sa buwan ng Oktubre 2022 kung saan 90 porsiyento ng mga nanguna ay mula sa Rehiyon ng Davao."
+                  },
+                  {
+                      "Score": 0.6873037219047546,
+                      "Target": "Hinahangad ng TF Davao na aabot sa lahat ng pribado at pampublikong mag-aaral sa elementarya at hayskul upang palawakin ang kultura ng seguridad ng lungsod."
+                  },
+                  {
+                      "Score": 0.7554261088371277,
+                      "Target": "Bago matapos ang Enero, inaasahang bababa ang kasalukuyang mataas na presyo ng sibuyas."
+                  }
+              ]
+          },
+          {
+              "text": "Sa nakalabay nga Disyembre 2022 nigawas ang resulta sa LET sa bulan sa Oktubre 2022 kon diin 90 porsiyento sa mga nag-top gikan sa Davao Region.",
+              "answers": [
+                  {
+                      "Score": 0.9670059084892273,
+                      "Target": "Noong nakaraang Disyembre 2022, lumabas ang resulta ng LET para sa buwan ng Oktubre 2022 kung saan 90 porsiyento ng mga nanguna ay mula sa Rehiyon ng Davao."
+                  },
+                  {
+                      "Score": 0.6873037219047546,
+                      "Target": "Hinahangad ng TF Davao na aabot sa lahat ng pribado at pampublikong mag-aaral sa elementarya at hayskul upang palawakin ang kultura ng seguridad ng lungsod."
+                  },
+                  {
+                      "Score": 0.7554261088371277,
+                      "Target": "Bago matapos ang Enero, inaasahang bababa ang kasalukuyang mataas na presyo ng sibuyas."
+                  }
+              ]
+          },
+          {
+              "text": "Sa nakalabay nga Disyembre 2022 nigawas ang resulta sa LET sa bulan sa Oktubre 2022 kon diin 90 porsiyento sa mga nag-top gikan sa Davao Region.",
+              "answers": [
+                  {
+                      "Score": 0.9670059084892273,
+                      "Target": "Noong nakaraang Disyembre 2022, lumabas ang resulta ng LET para sa buwan ng Oktubre 2022 kung saan 90 porsiyento ng mga nanguna ay mula sa Rehiyon ng Davao."
+                  },
+                  {
+                      "Score": 0.6873037219047546,
+                      "Target": "Hinahangad ng TF Davao na aabot sa lahat ng pribado at pampublikong mag-aaral sa elementarya at hayskul upang palawakin ang kultura ng seguridad ng lungsod."
+                  },
+                  {
+                      "Score": 0.7554261088371277,
+                      "Target": "Bago matapos ang Enero, inaasahang bababa ang kasalukuyang mataas na presyo ng sibuyas."
+                  }
+              ]
+          },
+          {
+              "text": "Nasayran nga gilayong mipuwesto ang langyaw sa pultahan sa maong mall ug tanang moagi nga babaye iyang hanyagan og pagpakasal.",
+              "answers": [
+                  {
+                      "Score": 0.7302664518356323,
+                      "Target": "Ngunit ipinunto ni Taya na ang kasabikan ng mga evacuees na umuwi ay natatabunan ng pangamba na baka sumiklab muli ang kaguluhan."
+                  },
+                  {
+                      "Score": 0.935965359210968,
+                      "Target": "Nabatid na agad na pumwesto ang dayuhan sa pintuan ng mall at pinakiusapan ang lahat ng dumadaang babae na pakasalan siya."
+                  },
+                  {
+                      "Score": 0.7773348689079285,
+                      "Target": "Bago matapos ang Enero, inaasahang bababa ang kasalukuyang mataas na presyo ng sibuyas."
+                  }
+              ]
+          },
+          {
+              "text": "Nasayran nga gilayong mipuwesto ang langyaw sa pultahan sa maong mall ug tanang moagi nga babaye iyang hanyagan og pagpakasal.",
+              "answers": [
+                  {
+                      "Score": 0.7302664518356323,
+                      "Target": "Ngunit ipinunto ni Taya na ang kasabikan ng mga evacuees na umuwi ay natatabunan ng pangamba na baka sumiklab muli ang kaguluhan."
+                  },
+                  {
+                      "Score": 0.935965359210968,
+                      "Target": "Nabatid na agad na pumwesto ang dayuhan sa pintuan ng mall at pinakiusapan ang lahat ng dumadaang babae na pakasalan siya."
+                  },
+                  {
+                      "Score": 0.7773348689079285,
+                      "Target": "Bago matapos ang Enero, inaasahang bababa ang kasalukuyang mataas na presyo ng sibuyas."
+                  }
+              ]
+          },
+          {
+              "text": "Nasayran nga gilayong mipuwesto ang langyaw sa pultahan sa maong mall ug tanang moagi nga babaye iyang hanyagan og pagpakasal.",
+              "answers": [
+                  {
+                      "Score": 0.7302664518356323,
+                      "Target": "Ngunit ipinunto ni Taya na ang kasabikan ng mga evacuees na umuwi ay natatabunan ng pangamba na baka sumiklab muli ang kaguluhan."
+                  },
+                  {
+                      "Score": 0.935965359210968,
+                      "Target": "Nabatid na agad na pumwesto ang dayuhan sa pintuan ng mall at pinakiusapan ang lahat ng dumadaang babae na pakasalan siya."
+                  },
+                  {
+                      "Score": 0.7773348689079285,
+                      "Target": "Bago matapos ang Enero, inaasahang bababa ang kasalukuyang mataas na presyo ng sibuyas."
+                  }
+              ]
+          }
+      ],
+      "date": "2023-04-27T15:44:15.481007"
+  },
+  {
+      "filename": "why di parensss",
+      "username": "brox@gmail.com",
+      "data": [
+          {
+              "text": "Sa dili pa matapos ang Enero, ang kasamtangang taas nga presyo sa sibuyas gipaabot nga mous-os.",
+              "answers": [
+                  {
+                      "Score": 0.86297607421875,
+                      "Target": "Ngunit ipinunto ni Taya na ang kasabikan ng mga evacuees na umuwi ay natatabunan ng pangamba na baka sumiklab muli ang kaguluhan."
+                  },
+                  {
+                      "Score": 0.7736828923225403,
+                      "Target": "Noong nakaraang Disyembre 2022, lumabas ang resulta ng LET para sa buwan ng Oktubre 2022 kung saan 90 porsiyento ng mga nanguna ay mula sa Rehiyon ng Davao."
+                  },
+                  {
+                      "Score": 0.9499531388282776,
+                      "Target": "Bago matapos ang Enero, inaasahang bababa ang kasalukuyang mataas na presyo ng sibuyas."
+                  }
+              ]
+          },
+          {
+              "text": "Sa dili pa matapos ang Enero, ang kasamtangang taas nga presyo sa sibuyas gipaabot nga mous-os.",
+              "answers": [
+                  {
+                      "Score": 0.86297607421875,
+                      "Target": "Ngunit ipinunto ni Taya na ang kasabikan ng mga evacuees na umuwi ay natatabunan ng pangamba na baka sumiklab muli ang kaguluhan."
+                  },
+                  {
+                      "Score": 0.7736828923225403,
+                      "Target": "Noong nakaraang Disyembre 2022, lumabas ang resulta ng LET para sa buwan ng Oktubre 2022 kung saan 90 porsiyento ng mga nanguna ay mula sa Rehiyon ng Davao."
+                  },
+                  {
+                      "Score": 0.9499531388282776,
+                      "Target": "Bago matapos ang Enero, inaasahang bababa ang kasalukuyang mataas na presyo ng sibuyas."
+                  }
+              ]
+          },
+          {
+              "text": "Sa dili pa matapos ang Enero, ang kasamtangang taas nga presyo sa sibuyas gipaabot nga mous-os.",
+              "answers": [
+                  {
+                      "Score": 0.86297607421875,
+                      "Target": "Ngunit ipinunto ni Taya na ang kasabikan ng mga evacuees na umuwi ay natatabunan ng pangamba na baka sumiklab muli ang kaguluhan."
+                  },
+                  {
+                      "Score": 0.7736828923225403,
+                      "Target": "Noong nakaraang Disyembre 2022, lumabas ang resulta ng LET para sa buwan ng Oktubre 2022 kung saan 90 porsiyento ng mga nanguna ay mula sa Rehiyon ng Davao."
+                  },
+                  {
+                      "Score": 0.9499531388282776,
+                      "Target": "Bago matapos ang Enero, inaasahang bababa ang kasalukuyang mataas na presyo ng sibuyas."
+                  }
+              ]
+          },
+          {
+              "text": "Ang TF Davao nagtinguha nga maabot ang tanang pribado ug publikong mga tinun-an sa elementarya ug high school sa pagpalapad sa kultura sa seguridad sa dakbayan.",
+              "answers": [
+                  {
+                      "Score": 0.6549444794654846,
+                      "Target": "Noong nakaraang Disyembre 2022, lumabas ang resulta ng LET para sa buwan ng Oktubre 2022 kung saan 90 porsiyento ng mga nanguna ay mula sa Rehiyon ng Davao."
+                  },
+                  {
+                      "Score": 0.9192172288894653,
+                      "Target": "Hinahangad ng TF Davao na aabot sa lahat ng pribado at pampublikong mag-aaral sa elementarya at hayskul upang palawakin ang kultura ng seguridad ng lungsod."
+                  },
+                  {
+                      "Score": 0.6831075549125671,
+                      "Target": "Bago matapos ang Enero, inaasahang bababa ang kasalukuyang mataas na presyo ng sibuyas."
+                  }
+              ]
+          },
+          {
+              "text": "Ang TF Davao nagtinguha nga maabot ang tanang pribado ug publikong mga tinun-an sa elementarya ug high school sa pagpalapad sa kultura sa seguridad sa dakbayan.",
+              "answers": [
+                  {
+                      "Score": 0.6549444794654846,
+                      "Target": "Noong nakaraang Disyembre 2022, lumabas ang resulta ng LET para sa buwan ng Oktubre 2022 kung saan 90 porsiyento ng mga nanguna ay mula sa Rehiyon ng Davao."
+                  },
+                  {
+                      "Score": 0.9192172288894653,
+                      "Target": "Hinahangad ng TF Davao na aabot sa lahat ng pribado at pampublikong mag-aaral sa elementarya at hayskul upang palawakin ang kultura ng seguridad ng lungsod."
+                  },
+                  {
+                      "Score": 0.6831075549125671,
+                      "Target": "Bago matapos ang Enero, inaasahang bababa ang kasalukuyang mataas na presyo ng sibuyas."
+                  }
+              ]
+          },
+          {
+              "text": "Ang TF Davao nagtinguha nga maabot ang tanang pribado ug publikong mga tinun-an sa elementarya ug high school sa pagpalapad sa kultura sa seguridad sa dakbayan.",
+              "answers": [
+                  {
+                      "Score": 0.6549444794654846,
+                      "Target": "Noong nakaraang Disyembre 2022, lumabas ang resulta ng LET para sa buwan ng Oktubre 2022 kung saan 90 porsiyento ng mga nanguna ay mula sa Rehiyon ng Davao."
+                  },
+                  {
+                      "Score": 0.9192172288894653,
+                      "Target": "Hinahangad ng TF Davao na aabot sa lahat ng pribado at pampublikong mag-aaral sa elementarya at hayskul upang palawakin ang kultura ng seguridad ng lungsod."
+                  },
+                  {
+                      "Score": 0.6831075549125671,
+                      "Target": "Bago matapos ang Enero, inaasahang bababa ang kasalukuyang mataas na presyo ng sibuyas."
+                  }
+              ]
+          },
+          {
+              "text": "Apan gitataw ni Taya nga ang kaikag sa mga bakwit nga makapauli nasanapan sa tumang kahadlok kay posibleng moulbo pa og balik ang kagubot.",
+              "answers": [
+                  {
+                      "Score": 0.9072138071060181,
+                      "Target": "Ngunit ipinunto ni Taya na ang kasabikan ng mga evacuees na umuwi ay natatabunan ng pangamba na baka sumiklab muli ang kaguluhan."
+                  },
+                  {
+                      "Score": 0.7799489498138428,
+                      "Target": "Noong nakaraang Disyembre 2022, lumabas ang resulta ng LET para sa buwan ng Oktubre 2022 kung saan 90 porsiyento ng mga nanguna ay mula sa Rehiyon ng Davao."
+                  },
+                  {
+                      "Score": 0.9294612407684326,
+                      "Target": "Bago matapos ang Enero, inaasahang bababa ang kasalukuyang mataas na presyo ng sibuyas."
+                  }
+              ]
+          },
+          {
+              "text": "Apan gitataw ni Taya nga ang kaikag sa mga bakwit nga makapauli nasanapan sa tumang kahadlok kay posibleng moulbo pa og balik ang kagubot.",
+              "answers": [
+                  {
+                      "Score": 0.9072138071060181,
+                      "Target": "Ngunit ipinunto ni Taya na ang kasabikan ng mga evacuees na umuwi ay natatabunan ng pangamba na baka sumiklab muli ang kaguluhan."
+                  },
+                  {
+                      "Score": 0.7799489498138428,
+                      "Target": "Noong nakaraang Disyembre 2022, lumabas ang resulta ng LET para sa buwan ng Oktubre 2022 kung saan 90 porsiyento ng mga nanguna ay mula sa Rehiyon ng Davao."
+                  },
+                  {
+                      "Score": 0.9294612407684326,
+                      "Target": "Bago matapos ang Enero, inaasahang bababa ang kasalukuyang mataas na presyo ng sibuyas."
+                  }
+              ]
+          },
+          {
+              "text": "Apan gitataw ni Taya nga ang kaikag sa mga bakwit nga makapauli nasanapan sa tumang kahadlok kay posibleng moulbo pa og balik ang kagubot.",
+              "answers": [
+                  {
+                      "Score": 0.9072138071060181,
+                      "Target": "Ngunit ipinunto ni Taya na ang kasabikan ng mga evacuees na umuwi ay natatabunan ng pangamba na baka sumiklab muli ang kaguluhan."
+                  },
+                  {
+                      "Score": 0.7799489498138428,
+                      "Target": "Noong nakaraang Disyembre 2022, lumabas ang resulta ng LET para sa buwan ng Oktubre 2022 kung saan 90 porsiyento ng mga nanguna ay mula sa Rehiyon ng Davao."
+                  },
+                  {
+                      "Score": 0.9294612407684326,
+                      "Target": "Bago matapos ang Enero, inaasahang bababa ang kasalukuyang mataas na presyo ng sibuyas."
+                  }
+              ]
+          },
+          {
+              "text": "Sa nakalabay nga Disyembre 2022 nigawas ang resulta sa LET sa bulan sa Oktubre 2022 kon diin 90 porsiyento sa mga nag-top gikan sa Davao Region.",
+              "answers": [
+                  {
+                      "Score": 0.9670059084892273,
+                      "Target": "Noong nakaraang Disyembre 2022, lumabas ang resulta ng LET para sa buwan ng Oktubre 2022 kung saan 90 porsiyento ng mga nanguna ay mula sa Rehiyon ng Davao."
+                  },
+                  {
+                      "Score": 0.6873037219047546,
+                      "Target": "Hinahangad ng TF Davao na aabot sa lahat ng pribado at pampublikong mag-aaral sa elementarya at hayskul upang palawakin ang kultura ng seguridad ng lungsod."
+                  },
+                  {
+                      "Score": 0.7554261088371277,
+                      "Target": "Bago matapos ang Enero, inaasahang bababa ang kasalukuyang mataas na presyo ng sibuyas."
+                  }
+              ]
+          },
+          {
+              "text": "Sa nakalabay nga Disyembre 2022 nigawas ang resulta sa LET sa bulan sa Oktubre 2022 kon diin 90 porsiyento sa mga nag-top gikan sa Davao Region.",
+              "answers": [
+                  {
+                      "Score": 0.9670059084892273,
+                      "Target": "Noong nakaraang Disyembre 2022, lumabas ang resulta ng LET para sa buwan ng Oktubre 2022 kung saan 90 porsiyento ng mga nanguna ay mula sa Rehiyon ng Davao."
+                  },
+                  {
+                      "Score": 0.6873037219047546,
+                      "Target": "Hinahangad ng TF Davao na aabot sa lahat ng pribado at pampublikong mag-aaral sa elementarya at hayskul upang palawakin ang kultura ng seguridad ng lungsod."
+                  },
+                  {
+                      "Score": 0.7554261088371277,
+                      "Target": "Bago matapos ang Enero, inaasahang bababa ang kasalukuyang mataas na presyo ng sibuyas."
+                  }
+              ]
+          },
+          {
+              "text": "Sa nakalabay nga Disyembre 2022 nigawas ang resulta sa LET sa bulan sa Oktubre 2022 kon diin 90 porsiyento sa mga nag-top gikan sa Davao Region.",
+              "answers": [
+                  {
+                      "Score": 0.9670059084892273,
+                      "Target": "Noong nakaraang Disyembre 2022, lumabas ang resulta ng LET para sa buwan ng Oktubre 2022 kung saan 90 porsiyento ng mga nanguna ay mula sa Rehiyon ng Davao."
+                  },
+                  {
+                      "Score": 0.6873037219047546,
+                      "Target": "Hinahangad ng TF Davao na aabot sa lahat ng pribado at pampublikong mag-aaral sa elementarya at hayskul upang palawakin ang kultura ng seguridad ng lungsod."
+                  },
+                  {
+                      "Score": 0.7554261088371277,
+                      "Target": "Bago matapos ang Enero, inaasahang bababa ang kasalukuyang mataas na presyo ng sibuyas."
+                  }
+              ]
+          },
+          {
+              "text": "Nasayran nga gilayong mipuwesto ang langyaw sa pultahan sa maong mall ug tanang moagi nga babaye iyang hanyagan og pagpakasal.",
+              "answers": [
+                  {
+                      "Score": 0.7302664518356323,
+                      "Target": "Ngunit ipinunto ni Taya na ang kasabikan ng mga evacuees na umuwi ay natatabunan ng pangamba na baka sumiklab muli ang kaguluhan."
+                  },
+                  {
+                      "Score": 0.935965359210968,
+                      "Target": "Nabatid na agad na pumwesto ang dayuhan sa pintuan ng mall at pinakiusapan ang lahat ng dumadaang babae na pakasalan siya."
+                  },
+                  {
+                      "Score": 0.7773348689079285,
+                      "Target": "Bago matapos ang Enero, inaasahang bababa ang kasalukuyang mataas na presyo ng sibuyas."
+                  }
+              ]
+          },
+          {
+              "text": "Nasayran nga gilayong mipuwesto ang langyaw sa pultahan sa maong mall ug tanang moagi nga babaye iyang hanyagan og pagpakasal.",
+              "answers": [
+                  {
+                      "Score": 0.7302664518356323,
+                      "Target": "Ngunit ipinunto ni Taya na ang kasabikan ng mga evacuees na umuwi ay natatabunan ng pangamba na baka sumiklab muli ang kaguluhan."
+                  },
+                  {
+                      "Score": 0.935965359210968,
+                      "Target": "Nabatid na agad na pumwesto ang dayuhan sa pintuan ng mall at pinakiusapan ang lahat ng dumadaang babae na pakasalan siya."
+                  },
+                  {
+                      "Score": 0.7773348689079285,
+                      "Target": "Bago matapos ang Enero, inaasahang bababa ang kasalukuyang mataas na presyo ng sibuyas."
+                  }
+              ]
+          },
+          {
+              "text": "Nasayran nga gilayong mipuwesto ang langyaw sa pultahan sa maong mall ug tanang moagi nga babaye iyang hanyagan og pagpakasal.",
+              "answers": [
+                  {
+                      "Score": 0.7302664518356323,
+                      "Target": "Ngunit ipinunto ni Taya na ang kasabikan ng mga evacuees na umuwi ay natatabunan ng pangamba na baka sumiklab muli ang kaguluhan."
+                  },
+                  {
+                      "Score": 0.935965359210968,
+                      "Target": "Nabatid na agad na pumwesto ang dayuhan sa pintuan ng mall at pinakiusapan ang lahat ng dumadaang babae na pakasalan siya."
+                  },
+                  {
+                      "Score": 0.7773348689079285,
+                      "Target": "Bago matapos ang Enero, inaasahang bababa ang kasalukuyang mataas na presyo ng sibuyas."
+                  }
+              ]
+          }
+      ],
+      "date": "2023-04-27T15:48:10.978983"
+  },
+  {
+      "filename": "save naaa",
+      "username": "brox@gmail.com",
+      "data": [
+          {
+              "text": "Sa dili pa matapos ang Enero, ang kasamtangang taas nga presyo sa sibuyas gipaabot nga mous-os.",
+              "answers": [
+                  {
+                      "Score": 0.86297607421875,
+                      "Target": "Ngunit ipinunto ni Taya na ang kasabikan ng mga evacuees na umuwi ay natatabunan ng pangamba na baka sumiklab muli ang kaguluhan."
+                  },
+                  {
+                      "Score": 0.7736828923225403,
+                      "Target": "Noong nakaraang Disyembre 2022, lumabas ang resulta ng LET para sa buwan ng Oktubre 2022 kung saan 90 porsiyento ng mga nanguna ay mula sa Rehiyon ng Davao."
+                  },
+                  {
+                      "Score": 0.9499531388282776,
+                      "Target": "Bago matapos ang Enero, inaasahang bababa ang kasalukuyang mataas na presyo ng sibuyas."
+                  }
+              ]
+          },
+          {
+              "text": "Sa dili pa matapos ang Enero, ang kasamtangang taas nga presyo sa sibuyas gipaabot nga mous-os.",
+              "answers": [
+                  {
+                      "Score": 0.86297607421875,
+                      "Target": "Ngunit ipinunto ni Taya na ang kasabikan ng mga evacuees na umuwi ay natatabunan ng pangamba na baka sumiklab muli ang kaguluhan."
+                  },
+                  {
+                      "Score": 0.7736828923225403,
+                      "Target": "Noong nakaraang Disyembre 2022, lumabas ang resulta ng LET para sa buwan ng Oktubre 2022 kung saan 90 porsiyento ng mga nanguna ay mula sa Rehiyon ng Davao."
+                  },
+                  {
+                      "Score": 0.9499531388282776,
+                      "Target": "Bago matapos ang Enero, inaasahang bababa ang kasalukuyang mataas na presyo ng sibuyas."
+                  }
+              ]
+          },
+          {
+              "text": "Sa dili pa matapos ang Enero, ang kasamtangang taas nga presyo sa sibuyas gipaabot nga mous-os.",
+              "answers": [
+                  {
+                      "Score": 0.86297607421875,
+                      "Target": "Ngunit ipinunto ni Taya na ang kasabikan ng mga evacuees na umuwi ay natatabunan ng pangamba na baka sumiklab muli ang kaguluhan."
+                  },
+                  {
+                      "Score": 0.7736828923225403,
+                      "Target": "Noong nakaraang Disyembre 2022, lumabas ang resulta ng LET para sa buwan ng Oktubre 2022 kung saan 90 porsiyento ng mga nanguna ay mula sa Rehiyon ng Davao."
+                  },
+                  {
+                      "Score": 0.9499531388282776,
+                      "Target": "Bago matapos ang Enero, inaasahang bababa ang kasalukuyang mataas na presyo ng sibuyas."
+                  }
+              ]
+          },
+          {
+              "text": "Ang TF Davao nagtinguha nga maabot ang tanang pribado ug publikong mga tinun-an sa elementarya ug high school sa pagpalapad sa kultura sa seguridad sa dakbayan.",
+              "answers": [
+                  {
+                      "Score": 0.6549444794654846,
+                      "Target": "Noong nakaraang Disyembre 2022, lumabas ang resulta ng LET para sa buwan ng Oktubre 2022 kung saan 90 porsiyento ng mga nanguna ay mula sa Rehiyon ng Davao."
+                  },
+                  {
+                      "Score": 0.9192172288894653,
+                      "Target": "Hinahangad ng TF Davao na aabot sa lahat ng pribado at pampublikong mag-aaral sa elementarya at hayskul upang palawakin ang kultura ng seguridad ng lungsod."
+                  },
+                  {
+                      "Score": 0.6831075549125671,
+                      "Target": "Bago matapos ang Enero, inaasahang bababa ang kasalukuyang mataas na presyo ng sibuyas."
+                  }
+              ]
+          },
+          {
+              "text": "Ang TF Davao nagtinguha nga maabot ang tanang pribado ug publikong mga tinun-an sa elementarya ug high school sa pagpalapad sa kultura sa seguridad sa dakbayan.",
+              "answers": [
+                  {
+                      "Score": 0.6549444794654846,
+                      "Target": "Noong nakaraang Disyembre 2022, lumabas ang resulta ng LET para sa buwan ng Oktubre 2022 kung saan 90 porsiyento ng mga nanguna ay mula sa Rehiyon ng Davao."
+                  },
+                  {
+                      "Score": 0.9192172288894653,
+                      "Target": "Hinahangad ng TF Davao na aabot sa lahat ng pribado at pampublikong mag-aaral sa elementarya at hayskul upang palawakin ang kultura ng seguridad ng lungsod."
+                  },
+                  {
+                      "Score": 0.6831075549125671,
+                      "Target": "Bago matapos ang Enero, inaasahang bababa ang kasalukuyang mataas na presyo ng sibuyas."
+                  }
+              ]
+          },
+          {
+              "text": "Ang TF Davao nagtinguha nga maabot ang tanang pribado ug publikong mga tinun-an sa elementarya ug high school sa pagpalapad sa kultura sa seguridad sa dakbayan.",
+              "answers": [
+                  {
+                      "Score": 0.6549444794654846,
+                      "Target": "Noong nakaraang Disyembre 2022, lumabas ang resulta ng LET para sa buwan ng Oktubre 2022 kung saan 90 porsiyento ng mga nanguna ay mula sa Rehiyon ng Davao."
+                  },
+                  {
+                      "Score": 0.9192172288894653,
+                      "Target": "Hinahangad ng TF Davao na aabot sa lahat ng pribado at pampublikong mag-aaral sa elementarya at hayskul upang palawakin ang kultura ng seguridad ng lungsod."
+                  },
+                  {
+                      "Score": 0.6831075549125671,
+                      "Target": "Bago matapos ang Enero, inaasahang bababa ang kasalukuyang mataas na presyo ng sibuyas."
+                  }
+              ]
+          },
+          {
+              "text": "Apan gitataw ni Taya nga ang kaikag sa mga bakwit nga makapauli nasanapan sa tumang kahadlok kay posibleng moulbo pa og balik ang kagubot.",
+              "answers": [
+                  {
+                      "Score": 0.9072138071060181,
+                      "Target": "Ngunit ipinunto ni Taya na ang kasabikan ng mga evacuees na umuwi ay natatabunan ng pangamba na baka sumiklab muli ang kaguluhan."
+                  },
+                  {
+                      "Score": 0.7799489498138428,
+                      "Target": "Noong nakaraang Disyembre 2022, lumabas ang resulta ng LET para sa buwan ng Oktubre 2022 kung saan 90 porsiyento ng mga nanguna ay mula sa Rehiyon ng Davao."
+                  },
+                  {
+                      "Score": 0.9294612407684326,
+                      "Target": "Bago matapos ang Enero, inaasahang bababa ang kasalukuyang mataas na presyo ng sibuyas."
+                  }
+              ]
+          },
+          {
+              "text": "Apan gitataw ni Taya nga ang kaikag sa mga bakwit nga makapauli nasanapan sa tumang kahadlok kay posibleng moulbo pa og balik ang kagubot.",
+              "answers": [
+                  {
+                      "Score": 0.9072138071060181,
+                      "Target": "Ngunit ipinunto ni Taya na ang kasabikan ng mga evacuees na umuwi ay natatabunan ng pangamba na baka sumiklab muli ang kaguluhan."
+                  },
+                  {
+                      "Score": 0.7799489498138428,
+                      "Target": "Noong nakaraang Disyembre 2022, lumabas ang resulta ng LET para sa buwan ng Oktubre 2022 kung saan 90 porsiyento ng mga nanguna ay mula sa Rehiyon ng Davao."
+                  },
+                  {
+                      "Score": 0.9294612407684326,
+                      "Target": "Bago matapos ang Enero, inaasahang bababa ang kasalukuyang mataas na presyo ng sibuyas."
+                  }
+              ]
+          },
+          {
+              "text": "Apan gitataw ni Taya nga ang kaikag sa mga bakwit nga makapauli nasanapan sa tumang kahadlok kay posibleng moulbo pa og balik ang kagubot.",
+              "answers": [
+                  {
+                      "Score": 0.9072138071060181,
+                      "Target": "Ngunit ipinunto ni Taya na ang kasabikan ng mga evacuees na umuwi ay natatabunan ng pangamba na baka sumiklab muli ang kaguluhan."
+                  },
+                  {
+                      "Score": 0.7799489498138428,
+                      "Target": "Noong nakaraang Disyembre 2022, lumabas ang resulta ng LET para sa buwan ng Oktubre 2022 kung saan 90 porsiyento ng mga nanguna ay mula sa Rehiyon ng Davao."
+                  },
+                  {
+                      "Score": 0.9294612407684326,
+                      "Target": "Bago matapos ang Enero, inaasahang bababa ang kasalukuyang mataas na presyo ng sibuyas."
+                  }
+              ]
+          },
+          {
+              "text": "Sa nakalabay nga Disyembre 2022 nigawas ang resulta sa LET sa bulan sa Oktubre 2022 kon diin 90 porsiyento sa mga nag-top gikan sa Davao Region.",
+              "answers": [
+                  {
+                      "Score": 0.9670059084892273,
+                      "Target": "Noong nakaraang Disyembre 2022, lumabas ang resulta ng LET para sa buwan ng Oktubre 2022 kung saan 90 porsiyento ng mga nanguna ay mula sa Rehiyon ng Davao."
+                  },
+                  {
+                      "Score": 0.6873037219047546,
+                      "Target": "Hinahangad ng TF Davao na aabot sa lahat ng pribado at pampublikong mag-aaral sa elementarya at hayskul upang palawakin ang kultura ng seguridad ng lungsod."
+                  },
+                  {
+                      "Score": 0.7554261088371277,
+                      "Target": "Bago matapos ang Enero, inaasahang bababa ang kasalukuyang mataas na presyo ng sibuyas."
+                  }
+              ]
+          },
+          {
+              "text": "Sa nakalabay nga Disyembre 2022 nigawas ang resulta sa LET sa bulan sa Oktubre 2022 kon diin 90 porsiyento sa mga nag-top gikan sa Davao Region.",
+              "answers": [
+                  {
+                      "Score": 0.9670059084892273,
+                      "Target": "Noong nakaraang Disyembre 2022, lumabas ang resulta ng LET para sa buwan ng Oktubre 2022 kung saan 90 porsiyento ng mga nanguna ay mula sa Rehiyon ng Davao."
+                  },
+                  {
+                      "Score": 0.6873037219047546,
+                      "Target": "Hinahangad ng TF Davao na aabot sa lahat ng pribado at pampublikong mag-aaral sa elementarya at hayskul upang palawakin ang kultura ng seguridad ng lungsod."
+                  },
+                  {
+                      "Score": 0.7554261088371277,
+                      "Target": "Bago matapos ang Enero, inaasahang bababa ang kasalukuyang mataas na presyo ng sibuyas."
+                  }
+              ]
+          },
+          {
+              "text": "Sa nakalabay nga Disyembre 2022 nigawas ang resulta sa LET sa bulan sa Oktubre 2022 kon diin 90 porsiyento sa mga nag-top gikan sa Davao Region.",
+              "answers": [
+                  {
+                      "Score": 0.9670059084892273,
+                      "Target": "Noong nakaraang Disyembre 2022, lumabas ang resulta ng LET para sa buwan ng Oktubre 2022 kung saan 90 porsiyento ng mga nanguna ay mula sa Rehiyon ng Davao."
+                  },
+                  {
+                      "Score": 0.6873037219047546,
+                      "Target": "Hinahangad ng TF Davao na aabot sa lahat ng pribado at pampublikong mag-aaral sa elementarya at hayskul upang palawakin ang kultura ng seguridad ng lungsod."
+                  },
+                  {
+                      "Score": 0.7554261088371277,
+                      "Target": "Bago matapos ang Enero, inaasahang bababa ang kasalukuyang mataas na presyo ng sibuyas."
+                  }
+              ]
+          },
+          {
+              "text": "Nasayran nga gilayong mipuwesto ang langyaw sa pultahan sa maong mall ug tanang moagi nga babaye iyang hanyagan og pagpakasal.",
+              "answers": [
+                  {
+                      "Score": 0.7302664518356323,
+                      "Target": "Ngunit ipinunto ni Taya na ang kasabikan ng mga evacuees na umuwi ay natatabunan ng pangamba na baka sumiklab muli ang kaguluhan."
+                  },
+                  {
+                      "Score": 0.935965359210968,
+                      "Target": "Nabatid na agad na pumwesto ang dayuhan sa pintuan ng mall at pinakiusapan ang lahat ng dumadaang babae na pakasalan siya."
+                  },
+                  {
+                      "Score": 0.7773348689079285,
+                      "Target": "Bago matapos ang Enero, inaasahang bababa ang kasalukuyang mataas na presyo ng sibuyas."
+                  }
+              ]
+          },
+          {
+              "text": "Nasayran nga gilayong mipuwesto ang langyaw sa pultahan sa maong mall ug tanang moagi nga babaye iyang hanyagan og pagpakasal.",
+              "answers": [
+                  {
+                      "Score": 0.7302664518356323,
+                      "Target": "Ngunit ipinunto ni Taya na ang kasabikan ng mga evacuees na umuwi ay natatabunan ng pangamba na baka sumiklab muli ang kaguluhan."
+                  },
+                  {
+                      "Score": 0.935965359210968,
+                      "Target": "Nabatid na agad na pumwesto ang dayuhan sa pintuan ng mall at pinakiusapan ang lahat ng dumadaang babae na pakasalan siya."
+                  },
+                  {
+                      "Score": 0.7773348689079285,
+                      "Target": "Bago matapos ang Enero, inaasahang bababa ang kasalukuyang mataas na presyo ng sibuyas."
+                  }
+              ]
+          },
+          {
+              "text": "Nasayran nga gilayong mipuwesto ang langyaw sa pultahan sa maong mall ug tanang moagi nga babaye iyang hanyagan og pagpakasal.",
+              "answers": [
+                  {
+                      "Score": 0.7302664518356323,
+                      "Target": "Ngunit ipinunto ni Taya na ang kasabikan ng mga evacuees na umuwi ay natatabunan ng pangamba na baka sumiklab muli ang kaguluhan."
+                  },
+                  {
+                      "Score": 0.935965359210968,
+                      "Target": "Nabatid na agad na pumwesto ang dayuhan sa pintuan ng mall at pinakiusapan ang lahat ng dumadaang babae na pakasalan siya."
+                  },
+                  {
+                      "Score": 0.7773348689079285,
+                      "Target": "Bago matapos ang Enero, inaasahang bababa ang kasalukuyang mataas na presyo ng sibuyas."
+                  }
+              ]
+          }
+      ],
+      "date": "2023-04-29T13:07:44.772578"
+  },
+  {
+      "filename": "grrrrrr",
+      "username": "brox@gmail.com",
+      "data": [
+          {
+              "text": "Sa dili pa matapos ang Enero, ang kasamtangang taas nga presyo sa sibuyas gipaabot nga mous-os.",
+              "answers": [
+                  {
+                      "Score": 0.9499531388282776,
+                      "Target": "Bago matapos ang Enero, inaasahang bababa ang kasalukuyang mataas na presyo ng sibuyas."
+                  },
+                  {
+                      "Score": 0.86297607421875,
+                      "Target": "Ngunit ipinunto ni Taya na ang kasabikan ng mga evacuees na umuwi ay natatabunan ng pangamba na baka sumiklab muli ang kaguluhan."
+                  },
+                  {
+                      "Score": 0.7736828923225403,
+                      "Target": "Noong nakaraang Disyembre 2022, lumabas ang resulta ng LET para sa buwan ng Oktubre 2022 kung saan 90 porsiyento ng mga nanguna ay mula sa Rehiyon ng Davao."
+                  }
+              ]
+          },
+          {
+              "text": "Sa dili pa matapos ang Enero, ang kasamtangang taas nga presyo sa sibuyas gipaabot nga mous-os.",
+              "answers": [
+                  {
+                      "Score": 0.9499531388282776,
+                      "Target": "Bago matapos ang Enero, inaasahang bababa ang kasalukuyang mataas na presyo ng sibuyas."
+                  },
+                  {
+                      "Score": 0.86297607421875,
+                      "Target": "Ngunit ipinunto ni Taya na ang kasabikan ng mga evacuees na umuwi ay natatabunan ng pangamba na baka sumiklab muli ang kaguluhan."
+                  },
+                  {
+                      "Score": 0.7736828923225403,
+                      "Target": "Noong nakaraang Disyembre 2022, lumabas ang resulta ng LET para sa buwan ng Oktubre 2022 kung saan 90 porsiyento ng mga nanguna ay mula sa Rehiyon ng Davao."
+                  }
+              ]
+          },
+          {
+              "text": "Sa dili pa matapos ang Enero, ang kasamtangang taas nga presyo sa sibuyas gipaabot nga mous-os.",
+              "answers": [
+                  {
+                      "Score": 0.9499531388282776,
+                      "Target": "Bago matapos ang Enero, inaasahang bababa ang kasalukuyang mataas na presyo ng sibuyas."
+                  },
+                  {
+                      "Score": 0.86297607421875,
+                      "Target": "Ngunit ipinunto ni Taya na ang kasabikan ng mga evacuees na umuwi ay natatabunan ng pangamba na baka sumiklab muli ang kaguluhan."
+                  },
+                  {
+                      "Score": 0.7736828923225403,
+                      "Target": "Noong nakaraang Disyembre 2022, lumabas ang resulta ng LET para sa buwan ng Oktubre 2022 kung saan 90 porsiyento ng mga nanguna ay mula sa Rehiyon ng Davao."
+                  }
+              ]
+          },
+          {
+              "text": "Ang TF Davao nagtinguha nga maabot ang tanang pribado ug publikong mga tinun-an sa elementarya ug high school sa pagpalapad sa kultura sa seguridad sa dakbayan.",
+              "answers": [
+                  {
+                      "Score": 0.9192172288894653,
+                      "Target": "Hinahangad ng TF Davao na aabot sa lahat ng pribado at pampublikong mag-aaral sa elementarya at hayskul upang palawakin ang kultura ng seguridad ng lungsod."
+                  },
+                  {
+                      "Score": 0.6831075549125671,
+                      "Target": "Bago matapos ang Enero, inaasahang bababa ang kasalukuyang mataas na presyo ng sibuyas."
+                  },
+                  {
+                      "Score": 0.6549444794654846,
+                      "Target": "Noong nakaraang Disyembre 2022, lumabas ang resulta ng LET para sa buwan ng Oktubre 2022 kung saan 90 porsiyento ng mga nanguna ay mula sa Rehiyon ng Davao."
+                  }
+              ]
+          },
+          {
+              "text": "Ang TF Davao nagtinguha nga maabot ang tanang pribado ug publikong mga tinun-an sa elementarya ug high school sa pagpalapad sa kultura sa seguridad sa dakbayan.",
+              "answers": [
+                  {
+                      "Score": 0.9192172288894653,
+                      "Target": "Hinahangad ng TF Davao na aabot sa lahat ng pribado at pampublikong mag-aaral sa elementarya at hayskul upang palawakin ang kultura ng seguridad ng lungsod."
+                  },
+                  {
+                      "Score": 0.6831075549125671,
+                      "Target": "Bago matapos ang Enero, inaasahang bababa ang kasalukuyang mataas na presyo ng sibuyas."
+                  },
+                  {
+                      "Score": 0.6549444794654846,
+                      "Target": "Noong nakaraang Disyembre 2022, lumabas ang resulta ng LET para sa buwan ng Oktubre 2022 kung saan 90 porsiyento ng mga nanguna ay mula sa Rehiyon ng Davao."
+                  }
+              ]
+          },
+          {
+              "text": "Ang TF Davao nagtinguha nga maabot ang tanang pribado ug publikong mga tinun-an sa elementarya ug high school sa pagpalapad sa kultura sa seguridad sa dakbayan.",
+              "answers": [
+                  {
+                      "Score": 0.9192172288894653,
+                      "Target": "Hinahangad ng TF Davao na aabot sa lahat ng pribado at pampublikong mag-aaral sa elementarya at hayskul upang palawakin ang kultura ng seguridad ng lungsod."
+                  },
+                  {
+                      "Score": 0.6831075549125671,
+                      "Target": "Bago matapos ang Enero, inaasahang bababa ang kasalukuyang mataas na presyo ng sibuyas."
+                  },
+                  {
+                      "Score": 0.6549444794654846,
+                      "Target": "Noong nakaraang Disyembre 2022, lumabas ang resulta ng LET para sa buwan ng Oktubre 2022 kung saan 90 porsiyento ng mga nanguna ay mula sa Rehiyon ng Davao."
+                  }
+              ]
+          },
+          {
+              "text": "Apan gitataw ni Taya nga ang kaikag sa mga bakwit nga makapauli nasanapan sa tumang kahadlok kay posibleng moulbo pa og balik ang kagubot.",
+              "answers": [
+                  {
+                      "Score": 0.9294612407684326,
+                      "Target": "Bago matapos ang Enero, inaasahang bababa ang kasalukuyang mataas na presyo ng sibuyas."
+                  },
+                  {
+                      "Score": 0.9072138071060181,
+                      "Target": "Ngunit ipinunto ni Taya na ang kasabikan ng mga evacuees na umuwi ay natatabunan ng pangamba na baka sumiklab muli ang kaguluhan."
+                  },
+                  {
+                      "Score": 0.7799489498138428,
+                      "Target": "Noong nakaraang Disyembre 2022, lumabas ang resulta ng LET para sa buwan ng Oktubre 2022 kung saan 90 porsiyento ng mga nanguna ay mula sa Rehiyon ng Davao."
+                  }
+              ]
+          },
+          {
+              "text": "Apan gitataw ni Taya nga ang kaikag sa mga bakwit nga makapauli nasanapan sa tumang kahadlok kay posibleng moulbo pa og balik ang kagubot.",
+              "answers": [
+                  {
+                      "Score": 0.9294612407684326,
+                      "Target": "Bago matapos ang Enero, inaasahang bababa ang kasalukuyang mataas na presyo ng sibuyas."
+                  },
+                  {
+                      "Score": 0.9072138071060181,
+                      "Target": "Ngunit ipinunto ni Taya na ang kasabikan ng mga evacuees na umuwi ay natatabunan ng pangamba na baka sumiklab muli ang kaguluhan."
+                  },
+                  {
+                      "Score": 0.7799489498138428,
+                      "Target": "Noong nakaraang Disyembre 2022, lumabas ang resulta ng LET para sa buwan ng Oktubre 2022 kung saan 90 porsiyento ng mga nanguna ay mula sa Rehiyon ng Davao."
+                  }
+              ]
+          },
+          {
+              "text": "Apan gitataw ni Taya nga ang kaikag sa mga bakwit nga makapauli nasanapan sa tumang kahadlok kay posibleng moulbo pa og balik ang kagubot.",
+              "answers": [
+                  {
+                      "Score": 0.9294612407684326,
+                      "Target": "Bago matapos ang Enero, inaasahang bababa ang kasalukuyang mataas na presyo ng sibuyas."
+                  },
+                  {
+                      "Score": 0.9072138071060181,
+                      "Target": "Ngunit ipinunto ni Taya na ang kasabikan ng mga evacuees na umuwi ay natatabunan ng pangamba na baka sumiklab muli ang kaguluhan."
+                  },
+                  {
+                      "Score": 0.7799489498138428,
+                      "Target": "Noong nakaraang Disyembre 2022, lumabas ang resulta ng LET para sa buwan ng Oktubre 2022 kung saan 90 porsiyento ng mga nanguna ay mula sa Rehiyon ng Davao."
+                  }
+              ]
+          },
+          {
+              "text": "Sa nakalabay nga Disyembre 2022 nigawas ang resulta sa LET sa bulan sa Oktubre 2022 kon diin 90 porsiyento sa mga nag-top gikan sa Davao Region.",
+              "answers": [
+                  {
+                      "Score": 0.9670059084892273,
+                      "Target": "Noong nakaraang Disyembre 2022, lumabas ang resulta ng LET para sa buwan ng Oktubre 2022 kung saan 90 porsiyento ng mga nanguna ay mula sa Rehiyon ng Davao."
+                  },
+                  {
+                      "Score": 0.7554261088371277,
+                      "Target": "Bago matapos ang Enero, inaasahang bababa ang kasalukuyang mataas na presyo ng sibuyas."
+                  },
+                  {
+                      "Score": 0.6873037219047546,
+                      "Target": "Hinahangad ng TF Davao na aabot sa lahat ng pribado at pampublikong mag-aaral sa elementarya at hayskul upang palawakin ang kultura ng seguridad ng lungsod."
+                  }
+              ]
+          },
+          {
+              "text": "Sa nakalabay nga Disyembre 2022 nigawas ang resulta sa LET sa bulan sa Oktubre 2022 kon diin 90 porsiyento sa mga nag-top gikan sa Davao Region.",
+              "answers": [
+                  {
+                      "Score": 0.9670059084892273,
+                      "Target": "Noong nakaraang Disyembre 2022, lumabas ang resulta ng LET para sa buwan ng Oktubre 2022 kung saan 90 porsiyento ng mga nanguna ay mula sa Rehiyon ng Davao."
+                  },
+                  {
+                      "Score": 0.7554261088371277,
+                      "Target": "Bago matapos ang Enero, inaasahang bababa ang kasalukuyang mataas na presyo ng sibuyas."
+                  },
+                  {
+                      "Score": 0.6873037219047546,
+                      "Target": "Hinahangad ng TF Davao na aabot sa lahat ng pribado at pampublikong mag-aaral sa elementarya at hayskul upang palawakin ang kultura ng seguridad ng lungsod."
+                  }
+              ]
+          },
+          {
+              "text": "Sa nakalabay nga Disyembre 2022 nigawas ang resulta sa LET sa bulan sa Oktubre 2022 kon diin 90 porsiyento sa mga nag-top gikan sa Davao Region.",
+              "answers": [
+                  {
+                      "Score": 0.9670059084892273,
+                      "Target": "Noong nakaraang Disyembre 2022, lumabas ang resulta ng LET para sa buwan ng Oktubre 2022 kung saan 90 porsiyento ng mga nanguna ay mula sa Rehiyon ng Davao."
+                  },
+                  {
+                      "Score": 0.7554261088371277,
+                      "Target": "Bago matapos ang Enero, inaasahang bababa ang kasalukuyang mataas na presyo ng sibuyas."
+                  },
+                  {
+                      "Score": 0.6873037219047546,
+                      "Target": "Hinahangad ng TF Davao na aabot sa lahat ng pribado at pampublikong mag-aaral sa elementarya at hayskul upang palawakin ang kultura ng seguridad ng lungsod."
+                  }
+              ]
+          },
+          {
+              "text": "Nasayran nga gilayong mipuwesto ang langyaw sa pultahan sa maong mall ug tanang moagi nga babaye iyang hanyagan og pagpakasal.",
+              "answers": [
+                  {
+                      "Score": 0.935965359210968,
+                      "Target": "Nabatid na agad na pumwesto ang dayuhan sa pintuan ng mall at pinakiusapan ang lahat ng dumadaang babae na pakasalan siya."
+                  },
+                  {
+                      "Score": 0.7773348689079285,
+                      "Target": "Bago matapos ang Enero, inaasahang bababa ang kasalukuyang mataas na presyo ng sibuyas."
+                  },
+                  {
+                      "Score": 0.7302664518356323,
+                      "Target": "Ngunit ipinunto ni Taya na ang kasabikan ng mga evacuees na umuwi ay natatabunan ng pangamba na baka sumiklab muli ang kaguluhan."
+                  }
+              ]
+          },
+          {
+              "text": "Nasayran nga gilayong mipuwesto ang langyaw sa pultahan sa maong mall ug tanang moagi nga babaye iyang hanyagan og pagpakasal.",
+              "answers": [
+                  {
+                      "Score": 0.935965359210968,
+                      "Target": "Nabatid na agad na pumwesto ang dayuhan sa pintuan ng mall at pinakiusapan ang lahat ng dumadaang babae na pakasalan siya."
+                  },
+                  {
+                      "Score": 0.7773348689079285,
+                      "Target": "Bago matapos ang Enero, inaasahang bababa ang kasalukuyang mataas na presyo ng sibuyas."
+                  },
+                  {
+                      "Score": 0.7302664518356323,
+                      "Target": "Ngunit ipinunto ni Taya na ang kasabikan ng mga evacuees na umuwi ay natatabunan ng pangamba na baka sumiklab muli ang kaguluhan."
+                  }
+              ]
+          },
+          {
+              "text": "Nasayran nga gilayong mipuwesto ang langyaw sa pultahan sa maong mall ug tanang moagi nga babaye iyang hanyagan og pagpakasal.",
+              "answers": [
+                  {
+                      "Score": 0.935965359210968,
+                      "Target": "Nabatid na agad na pumwesto ang dayuhan sa pintuan ng mall at pinakiusapan ang lahat ng dumadaang babae na pakasalan siya."
+                  },
+                  {
+                      "Score": 0.7773348689079285,
+                      "Target": "Bago matapos ang Enero, inaasahang bababa ang kasalukuyang mataas na presyo ng sibuyas."
+                  },
+                  {
+                      "Score": 0.7302664518356323,
+                      "Target": "Ngunit ipinunto ni Taya na ang kasabikan ng mga evacuees na umuwi ay natatabunan ng pangamba na baka sumiklab muli ang kaguluhan."
+                  }
+              ]
+          }
+      ],
+      "date": "2023-05-01T02:10:24.267111"
+  },
+  {
+      "filename": "Ngeeee ngano dili?",
+      "username": "brox@gmail.com",
+      "data": [
+          {
+              "text": "Sa dili pa matapos ang Enero, ang kasamtangang taas nga presyo sa sibuyas gipaabot nga mous-os.",
+              "answers": [
+                  {
+                      "Score": 0.9499531388282776,
+                      "Target": "Bago matapos ang Enero, inaasahang bababa ang kasalukuyang mataas na presyo ng sibuyas."
+                  },
+                  {
+                      "Score": 0.86297607421875,
+                      "Target": "Ngunit ipinunto ni Taya na ang kasabikan ng mga evacuees na umuwi ay natatabunan ng pangamba na baka sumiklab muli ang kaguluhan."
+                  },
+                  {
+                      "Score": 0.7736828923225403,
+                      "Target": "Noong nakaraang Disyembre 2022, lumabas ang resulta ng LET para sa buwan ng Oktubre 2022 kung saan 90 porsiyento ng mga nanguna ay mula sa Rehiyon ng Davao."
+                  }
+              ]
+          },
+          {
+              "text": "Sa dili pa matapos ang Enero, ang kasamtangang taas nga presyo sa sibuyas gipaabot nga mous-os.",
+              "answers": [
+                  {
+                      "Score": 0.9499531388282776,
+                      "Target": "Bago matapos ang Enero, inaasahang bababa ang kasalukuyang mataas na presyo ng sibuyas."
+                  },
+                  {
+                      "Score": 0.86297607421875,
+                      "Target": "Ngunit ipinunto ni Taya na ang kasabikan ng mga evacuees na umuwi ay natatabunan ng pangamba na baka sumiklab muli ang kaguluhan."
+                  },
+                  {
+                      "Score": 0.7736828923225403,
+                      "Target": "Noong nakaraang Disyembre 2022, lumabas ang resulta ng LET para sa buwan ng Oktubre 2022 kung saan 90 porsiyento ng mga nanguna ay mula sa Rehiyon ng Davao."
+                  }
+              ]
+          },
+          {
+              "text": "Sa dili pa matapos ang Enero, ang kasamtangang taas nga presyo sa sibuyas gipaabot nga mous-os.",
+              "answers": [
+                  {
+                      "Score": 0.9499531388282776,
+                      "Target": "Bago matapos ang Enero, inaasahang bababa ang kasalukuyang mataas na presyo ng sibuyas."
+                  },
+                  {
+                      "Score": 0.86297607421875,
+                      "Target": "Ngunit ipinunto ni Taya na ang kasabikan ng mga evacuees na umuwi ay natatabunan ng pangamba na baka sumiklab muli ang kaguluhan."
+                  },
+                  {
+                      "Score": 0.7736828923225403,
+                      "Target": "Noong nakaraang Disyembre 2022, lumabas ang resulta ng LET para sa buwan ng Oktubre 2022 kung saan 90 porsiyento ng mga nanguna ay mula sa Rehiyon ng Davao."
+                  }
+              ]
+          },
+          {
+              "text": "Ang TF Davao nagtinguha nga maabot ang tanang pribado ug publikong mga tinun-an sa elementarya ug high school sa pagpalapad sa kultura sa seguridad sa dakbayan.",
+              "answers": [
+                  {
+                      "Score": 0.9192172288894653,
+                      "Target": "Hinahangad ng TF Davao na aabot sa lahat ng pribado at pampublikong mag-aaral sa elementarya at hayskul upang palawakin ang kultura ng seguridad ng lungsod."
+                  },
+                  {
+                      "Score": 0.6831075549125671,
+                      "Target": "Bago matapos ang Enero, inaasahang bababa ang kasalukuyang mataas na presyo ng sibuyas."
+                  },
+                  {
+                      "Score": 0.6549444794654846,
+                      "Target": "Noong nakaraang Disyembre 2022, lumabas ang resulta ng LET para sa buwan ng Oktubre 2022 kung saan 90 porsiyento ng mga nanguna ay mula sa Rehiyon ng Davao."
+                  }
+              ]
+          },
+          {
+              "text": "Ang TF Davao nagtinguha nga maabot ang tanang pribado ug publikong mga tinun-an sa elementarya ug high school sa pagpalapad sa kultura sa seguridad sa dakbayan.",
+              "answers": [
+                  {
+                      "Score": 0.9192172288894653,
+                      "Target": "Hinahangad ng TF Davao na aabot sa lahat ng pribado at pampublikong mag-aaral sa elementarya at hayskul upang palawakin ang kultura ng seguridad ng lungsod."
+                  },
+                  {
+                      "Score": 0.6831075549125671,
+                      "Target": "Bago matapos ang Enero, inaasahang bababa ang kasalukuyang mataas na presyo ng sibuyas."
+                  },
+                  {
+                      "Score": 0.6549444794654846,
+                      "Target": "Noong nakaraang Disyembre 2022, lumabas ang resulta ng LET para sa buwan ng Oktubre 2022 kung saan 90 porsiyento ng mga nanguna ay mula sa Rehiyon ng Davao."
+                  }
+              ]
+          },
+          {
+              "text": "Ang TF Davao nagtinguha nga maabot ang tanang pribado ug publikong mga tinun-an sa elementarya ug high school sa pagpalapad sa kultura sa seguridad sa dakbayan.",
+              "answers": [
+                  {
+                      "Score": 0.9192172288894653,
+                      "Target": "Hinahangad ng TF Davao na aabot sa lahat ng pribado at pampublikong mag-aaral sa elementarya at hayskul upang palawakin ang kultura ng seguridad ng lungsod."
+                  },
+                  {
+                      "Score": 0.6831075549125671,
+                      "Target": "Bago matapos ang Enero, inaasahang bababa ang kasalukuyang mataas na presyo ng sibuyas."
+                  },
+                  {
+                      "Score": 0.6549444794654846,
+                      "Target": "Noong nakaraang Disyembre 2022, lumabas ang resulta ng LET para sa buwan ng Oktubre 2022 kung saan 90 porsiyento ng mga nanguna ay mula sa Rehiyon ng Davao."
+                  }
+              ]
+          },
+          {
+              "text": "Apan gitataw ni Taya nga ang kaikag sa mga bakwit nga makapauli nasanapan sa tumang kahadlok kay posibleng moulbo pa og balik ang kagubot.",
+              "answers": [
+                  {
+                      "Score": 0.9294612407684326,
+                      "Target": "Bago matapos ang Enero, inaasahang bababa ang kasalukuyang mataas na presyo ng sibuyas."
+                  },
+                  {
+                      "Score": 0.9072138071060181,
+                      "Target": "Ngunit ipinunto ni Taya na ang kasabikan ng mga evacuees na umuwi ay natatabunan ng pangamba na baka sumiklab muli ang kaguluhan."
+                  },
+                  {
+                      "Score": 0.7799489498138428,
+                      "Target": "Noong nakaraang Disyembre 2022, lumabas ang resulta ng LET para sa buwan ng Oktubre 2022 kung saan 90 porsiyento ng mga nanguna ay mula sa Rehiyon ng Davao."
+                  }
+              ]
+          },
+          {
+              "text": "Apan gitataw ni Taya nga ang kaikag sa mga bakwit nga makapauli nasanapan sa tumang kahadlok kay posibleng moulbo pa og balik ang kagubot.",
+              "answers": [
+                  {
+                      "Score": 0.9294612407684326,
+                      "Target": "Bago matapos ang Enero, inaasahang bababa ang kasalukuyang mataas na presyo ng sibuyas."
+                  },
+                  {
+                      "Score": 0.9072138071060181,
+                      "Target": "Ngunit ipinunto ni Taya na ang kasabikan ng mga evacuees na umuwi ay natatabunan ng pangamba na baka sumiklab muli ang kaguluhan."
+                  },
+                  {
+                      "Score": 0.7799489498138428,
+                      "Target": "Noong nakaraang Disyembre 2022, lumabas ang resulta ng LET para sa buwan ng Oktubre 2022 kung saan 90 porsiyento ng mga nanguna ay mula sa Rehiyon ng Davao."
+                  }
+              ]
+          },
+          {
+              "text": "Apan gitataw ni Taya nga ang kaikag sa mga bakwit nga makapauli nasanapan sa tumang kahadlok kay posibleng moulbo pa og balik ang kagubot.",
+              "answers": [
+                  {
+                      "Score": 0.9294612407684326,
+                      "Target": "Bago matapos ang Enero, inaasahang bababa ang kasalukuyang mataas na presyo ng sibuyas."
+                  },
+                  {
+                      "Score": 0.9072138071060181,
+                      "Target": "Ngunit ipinunto ni Taya na ang kasabikan ng mga evacuees na umuwi ay natatabunan ng pangamba na baka sumiklab muli ang kaguluhan."
+                  },
+                  {
+                      "Score": 0.7799489498138428,
+                      "Target": "Noong nakaraang Disyembre 2022, lumabas ang resulta ng LET para sa buwan ng Oktubre 2022 kung saan 90 porsiyento ng mga nanguna ay mula sa Rehiyon ng Davao."
+                  }
+              ]
+          },
+          {
+              "text": "Sa nakalabay nga Disyembre 2022 nigawas ang resulta sa LET sa bulan sa Oktubre 2022 kon diin 90 porsiyento sa mga nag-top gikan sa Davao Region.",
+              "answers": [
+                  {
+                      "Score": 0.9670059084892273,
+                      "Target": "Noong nakaraang Disyembre 2022, lumabas ang resulta ng LET para sa buwan ng Oktubre 2022 kung saan 90 porsiyento ng mga nanguna ay mula sa Rehiyon ng Davao."
+                  },
+                  {
+                      "Score": 0.7554261088371277,
+                      "Target": "Bago matapos ang Enero, inaasahang bababa ang kasalukuyang mataas na presyo ng sibuyas."
+                  },
+                  {
+                      "Score": 0.6873037219047546,
+                      "Target": "Hinahangad ng TF Davao na aabot sa lahat ng pribado at pampublikong mag-aaral sa elementarya at hayskul upang palawakin ang kultura ng seguridad ng lungsod."
+                  }
+              ]
+          },
+          {
+              "text": "Sa nakalabay nga Disyembre 2022 nigawas ang resulta sa LET sa bulan sa Oktubre 2022 kon diin 90 porsiyento sa mga nag-top gikan sa Davao Region.",
+              "answers": [
+                  {
+                      "Score": 0.9670059084892273,
+                      "Target": "Noong nakaraang Disyembre 2022, lumabas ang resulta ng LET para sa buwan ng Oktubre 2022 kung saan 90 porsiyento ng mga nanguna ay mula sa Rehiyon ng Davao."
+                  },
+                  {
+                      "Score": 0.7554261088371277,
+                      "Target": "Bago matapos ang Enero, inaasahang bababa ang kasalukuyang mataas na presyo ng sibuyas."
+                  },
+                  {
+                      "Score": 0.6873037219047546,
+                      "Target": "Hinahangad ng TF Davao na aabot sa lahat ng pribado at pampublikong mag-aaral sa elementarya at hayskul upang palawakin ang kultura ng seguridad ng lungsod."
+                  }
+              ]
+          },
+          {
+              "text": "Sa nakalabay nga Disyembre 2022 nigawas ang resulta sa LET sa bulan sa Oktubre 2022 kon diin 90 porsiyento sa mga nag-top gikan sa Davao Region.",
+              "answers": [
+                  {
+                      "Score": 0.9670059084892273,
+                      "Target": "Noong nakaraang Disyembre 2022, lumabas ang resulta ng LET para sa buwan ng Oktubre 2022 kung saan 90 porsiyento ng mga nanguna ay mula sa Rehiyon ng Davao."
+                  },
+                  {
+                      "Score": 0.7554261088371277,
+                      "Target": "Bago matapos ang Enero, inaasahang bababa ang kasalukuyang mataas na presyo ng sibuyas."
+                  },
+                  {
+                      "Score": 0.6873037219047546,
+                      "Target": "Hinahangad ng TF Davao na aabot sa lahat ng pribado at pampublikong mag-aaral sa elementarya at hayskul upang palawakin ang kultura ng seguridad ng lungsod."
+                  }
+              ]
+          },
+          {
+              "text": "Nasayran nga gilayong mipuwesto ang langyaw sa pultahan sa maong mall ug tanang moagi nga babaye iyang hanyagan og pagpakasal.",
+              "answers": [
+                  {
+                      "Score": 0.935965359210968,
+                      "Target": "Nabatid na agad na pumwesto ang dayuhan sa pintuan ng mall at pinakiusapan ang lahat ng dumadaang babae na pakasalan siya."
+                  },
+                  {
+                      "Score": 0.7773348689079285,
+                      "Target": "Bago matapos ang Enero, inaasahang bababa ang kasalukuyang mataas na presyo ng sibuyas."
+                  },
+                  {
+                      "Score": 0.7302664518356323,
+                      "Target": "Ngunit ipinunto ni Taya na ang kasabikan ng mga evacuees na umuwi ay natatabunan ng pangamba na baka sumiklab muli ang kaguluhan."
+                  }
+              ]
+          },
+          {
+              "text": "Nasayran nga gilayong mipuwesto ang langyaw sa pultahan sa maong mall ug tanang moagi nga babaye iyang hanyagan og pagpakasal.",
+              "answers": [
+                  {
+                      "Score": 0.935965359210968,
+                      "Target": "Nabatid na agad na pumwesto ang dayuhan sa pintuan ng mall at pinakiusapan ang lahat ng dumadaang babae na pakasalan siya."
+                  },
+                  {
+                      "Score": 0.7773348689079285,
+                      "Target": "Bago matapos ang Enero, inaasahang bababa ang kasalukuyang mataas na presyo ng sibuyas."
+                  },
+                  {
+                      "Score": 0.7302664518356323,
+                      "Target": "Ngunit ipinunto ni Taya na ang kasabikan ng mga evacuees na umuwi ay natatabunan ng pangamba na baka sumiklab muli ang kaguluhan."
+                  }
+              ]
+          },
+          {
+              "text": "Nasayran nga gilayong mipuwesto ang langyaw sa pultahan sa maong mall ug tanang moagi nga babaye iyang hanyagan og pagpakasal.",
+              "answers": [
+                  {
+                      "Score": 0.935965359210968,
+                      "Target": "Nabatid na agad na pumwesto ang dayuhan sa pintuan ng mall at pinakiusapan ang lahat ng dumadaang babae na pakasalan siya."
+                  },
+                  {
+                      "Score": 0.7773348689079285,
+                      "Target": "Bago matapos ang Enero, inaasahang bababa ang kasalukuyang mataas na presyo ng sibuyas."
+                  },
+                  {
+                      "Score": 0.7302664518356323,
+                      "Target": "Ngunit ipinunto ni Taya na ang kasabikan ng mga evacuees na umuwi ay natatabunan ng pangamba na baka sumiklab muli ang kaguluhan."
+                  }
+              ]
+          }
+      ],
+      "date": "2023-05-01T02:21:07.570042"
+  },
+  {
+      "filename": "Sooooo ano na?",
+      "username": "brox@gmail.com",
+      "data": [
+          {
+              "text": "Sa dili pa matapos ang Enero, ang kasamtangang taas nga presyo sa sibuyas gipaabot nga mous-os.",
+              "answers": [
+                  {
+                      "Score": 0.9499531388282776,
+                      "Target": "Bago matapos ang Enero, inaasahang bababa ang kasalukuyang mataas na presyo ng sibuyas."
+                  },
+                  {
+                      "Score": 0.8981236815452576,
+                      "Target": "Bago matapos ang Enero, inaasahang bababa an"
+                  },
+                  {
+                      "Score": 0.86297607421875,
+                      "Target": "Ngunit ipinunto ni Taya na ang kasabikan ng mga evacuees na umuwi ay natatabunan ng pangamba na baka sumiklab muli ang kaguluhan."
+                  }
+              ]
+          },
+          {
+              "text": "Sa dili pa matapos ang Enero, ang kasamtangang taas nga presyo sa sibuyas gipaabot nga mous-os.",
+              "answers": [
+                  {
+                      "Score": 0.9499531388282776,
+                      "Target": "Bago matapos ang Enero, inaasahang bababa ang kasalukuyang mataas na presyo ng sibuyas."
+                  },
+                  {
+                      "Score": 0.8981236815452576,
+                      "Target": "Bago matapos ang Enero, inaasahang bababa an"
+                  },
+                  {
+                      "Score": 0.86297607421875,
+                      "Target": "Ngunit ipinunto ni Taya na ang kasabikan ng mga evacuees na umuwi ay natatabunan ng pangamba na baka sumiklab muli ang kaguluhan."
+                  }
+              ]
+          },
+          {
+              "text": "Sa dili pa matapos ang Enero, ang kasamtangang taas nga presyo sa sibuyas gipaabot nga mous-os.",
+              "answers": [
+                  {
+                      "Score": 0.9499531388282776,
+                      "Target": "Bago matapos ang Enero, inaasahang bababa ang kasalukuyang mataas na presyo ng sibuyas."
+                  },
+                  {
+                      "Score": 0.8981236815452576,
+                      "Target": "Bago matapos ang Enero, inaasahang bababa an"
+                  },
+                  {
+                      "Score": 0.86297607421875,
+                      "Target": "Ngunit ipinunto ni Taya na ang kasabikan ng mga evacuees na umuwi ay natatabunan ng pangamba na baka sumiklab muli ang kaguluhan."
+                  }
+              ]
+          },
+          {
+              "text": "Ang TF Davao nagtinguha nga maabot ang tanang pribado ug publikong mga tinun-an sa elementarya ug high school sa pagpalapad sa kultura sa seguridad sa dakbayan.",
+              "answers": [
+                  {
+                      "Score": 0.9192172288894653,
+                      "Target": "Hinahangad ng TF Davao na aabot sa lahat ng pribado at pampublikong mag-aaral sa elementarya at hayskul upang palawakin ang kultura ng seguridad ng lungsod."
+                  },
+                  {
+                      "Score": 0.6831075549125671,
+                      "Target": "Bago matapos ang Enero, inaasahang bababa ang kasalukuyang mataas na presyo ng sibuyas."
+                  },
+                  {
+                      "Score": 0.6656859517097473,
+                      "Target": "Bago matapos ang Enero, inaasahang bababa an"
+                  }
+              ]
+          },
+          {
+              "text": "Ang TF Davao nagtinguha nga maabot ang tanang pribado ug publikong mga tinun-an sa elementarya ug high school sa pagpalapad sa kultura sa seguridad sa dakbayan.",
+              "answers": [
+                  {
+                      "Score": 0.9192172288894653,
+                      "Target": "Hinahangad ng TF Davao na aabot sa lahat ng pribado at pampublikong mag-aaral sa elementarya at hayskul upang palawakin ang kultura ng seguridad ng lungsod."
+                  },
+                  {
+                      "Score": 0.6831075549125671,
+                      "Target": "Bago matapos ang Enero, inaasahang bababa ang kasalukuyang mataas na presyo ng sibuyas."
+                  },
+                  {
+                      "Score": 0.6656859517097473,
+                      "Target": "Bago matapos ang Enero, inaasahang bababa an"
+                  }
+              ]
+          },
+          {
+              "text": "Ang TF Davao nagtinguha nga maabot ang tanang pribado ug publikong mga tinun-an sa elementarya ug high school sa pagpalapad sa kultura sa seguridad sa dakbayan.",
+              "answers": [
+                  {
+                      "Score": 0.9192172288894653,
+                      "Target": "Hinahangad ng TF Davao na aabot sa lahat ng pribado at pampublikong mag-aaral sa elementarya at hayskul upang palawakin ang kultura ng seguridad ng lungsod."
+                  },
+                  {
+                      "Score": 0.6831075549125671,
+                      "Target": "Bago matapos ang Enero, inaasahang bababa ang kasalukuyang mataas na presyo ng sibuyas."
+                  },
+                  {
+                      "Score": 0.6656859517097473,
+                      "Target": "Bago matapos ang Enero, inaasahang bababa an"
+                  }
+              ]
+          },
+          {
+              "text": "Apan gitataw ni Taya nga ang kaikag sa mga bakwit nga makapauli nasanapan sa tumang kahadlok kay posibleng moulbo pa og balik ang kagubot.",
+              "answers": [
+                  {
+                      "Score": 0.9294612407684326,
+                      "Target": "Bago matapos ang Enero, inaasahang bababa ang kasalukuyang mataas na presyo ng sibuyas."
+                  },
+                  {
+                      "Score": 0.9072138071060181,
+                      "Target": "Ngunit ipinunto ni Taya na ang kasabikan ng mga evacuees na umuwi ay natatabunan ng pangamba na baka sumiklab muli ang kaguluhan."
+                  },
+                  {
+                      "Score": 0.8729391098022461,
+                      "Target": "Bago matapos ang Enero, inaasahang bababa an"
+                  }
+              ]
+          },
+          {
+              "text": "Apan gitataw ni Taya nga ang kaikag sa mga bakwit nga makapauli nasanapan sa tumang kahadlok kay posibleng moulbo pa og balik ang kagubot.",
+              "answers": [
+                  {
+                      "Score": 0.9294612407684326,
+                      "Target": "Bago matapos ang Enero, inaasahang bababa ang kasalukuyang mataas na presyo ng sibuyas."
+                  },
+                  {
+                      "Score": 0.9072138071060181,
+                      "Target": "Ngunit ipinunto ni Taya na ang kasabikan ng mga evacuees na umuwi ay natatabunan ng pangamba na baka sumiklab muli ang kaguluhan."
+                  },
+                  {
+                      "Score": 0.8729391098022461,
+                      "Target": "Bago matapos ang Enero, inaasahang bababa an"
+                  }
+              ]
+          },
+          {
+              "text": "Apan gitataw ni Taya nga ang kaikag sa mga bakwit nga makapauli nasanapan sa tumang kahadlok kay posibleng moulbo pa og balik ang kagubot.",
+              "answers": [
+                  {
+                      "Score": 0.9294612407684326,
+                      "Target": "Bago matapos ang Enero, inaasahang bababa ang kasalukuyang mataas na presyo ng sibuyas."
+                  },
+                  {
+                      "Score": 0.9072138071060181,
+                      "Target": "Ngunit ipinunto ni Taya na ang kasabikan ng mga evacuees na umuwi ay natatabunan ng pangamba na baka sumiklab muli ang kaguluhan."
+                  },
+                  {
+                      "Score": 0.8729391098022461,
+                      "Target": "Bago matapos ang Enero, inaasahang bababa an"
+                  }
+              ]
+          },
+          {
+              "text": "Sa nakalabay nga Disyembre 2022 nigawas ang resulta sa LET sa bulan sa Oktubre 2022 kon diin 90 porsiyento sa mga nag-top gikan sa Davao Region.",
+              "answers": [
+                  {
+                      "Score": 0.9670059084892273,
+                      "Target": "Noong nakaraang Disyembre 2022, lumabas ang resulta ng LET para sa buwan ng Oktubre 2022 kung saan 90 porsiyento ng mga nanguna ay mula sa Rehiyon ng Davao."
+                  },
+                  {
+                      "Score": 0.7554261088371277,
+                      "Target": "Bago matapos ang Enero, inaasahang bababa ang kasalukuyang mataas na presyo ng sibuyas."
+                  },
+                  {
+                      "Score": 0.7318716645240784,
+                      "Target": "Bago matapos ang Enero, inaasahang bababa an"
+                  }
+              ]
+          },
+          {
+              "text": "Sa nakalabay nga Disyembre 2022 nigawas ang resulta sa LET sa bulan sa Oktubre 2022 kon diin 90 porsiyento sa mga nag-top gikan sa Davao Region.",
+              "answers": [
+                  {
+                      "Score": 0.9670059084892273,
+                      "Target": "Noong nakaraang Disyembre 2022, lumabas ang resulta ng LET para sa buwan ng Oktubre 2022 kung saan 90 porsiyento ng mga nanguna ay mula sa Rehiyon ng Davao."
+                  },
+                  {
+                      "Score": 0.7554261088371277,
+                      "Target": "Bago matapos ang Enero, inaasahang bababa ang kasalukuyang mataas na presyo ng sibuyas."
+                  },
+                  {
+                      "Score": 0.7318716645240784,
+                      "Target": "Bago matapos ang Enero, inaasahang bababa an"
+                  }
+              ]
+          },
+          {
+              "text": "Sa nakalabay nga Disyembre 2022 nigawas ang resulta sa LET sa bulan sa Oktubre 2022 kon diin 90 porsiyento sa mga nag-top gikan sa Davao Region.",
+              "answers": [
+                  {
+                      "Score": 0.9670059084892273,
+                      "Target": "Noong nakaraang Disyembre 2022, lumabas ang resulta ng LET para sa buwan ng Oktubre 2022 kung saan 90 porsiyento ng mga nanguna ay mula sa Rehiyon ng Davao."
+                  },
+                  {
+                      "Score": 0.7554261088371277,
+                      "Target": "Bago matapos ang Enero, inaasahang bababa ang kasalukuyang mataas na presyo ng sibuyas."
+                  },
+                  {
+                      "Score": 0.7318716645240784,
+                      "Target": "Bago matapos ang Enero, inaasahang bababa an"
+                  }
+              ]
+          },
+          {
+              "text": "Nasayran nga gilayong mipuwesto ang langyaw sa pultahan sa maong mall ug tanang moagi nga babaye iyang hanyagan og pagpakasal.",
+              "answers": [
+                  {
+                      "Score": 0.935965359210968,
+                      "Target": "Nabatid na agad na pumwesto ang dayuhan sa pintuan ng mall at pinakiusapan ang lahat ng dumadaang babae na pakasalan siya."
+                  },
+                  {
+                      "Score": 0.7773348689079285,
+                      "Target": "Bago matapos ang Enero, inaasahang bababa ang kasalukuyang mataas na presyo ng sibuyas."
+                  },
+                  {
+                      "Score": 0.7731558084487915,
+                      "Target": "Bago matapos ang Enero, inaasahang bababa an"
+                  }
+              ]
+          },
+          {
+              "text": "Nasayran nga gilayong mipuwesto ang langyaw sa pultahan sa maong mall ug tanang moagi nga babaye iyang hanyagan og pagpakasal.",
+              "answers": [
+                  {
+                      "Score": 0.935965359210968,
+                      "Target": "Nabatid na agad na pumwesto ang dayuhan sa pintuan ng mall at pinakiusapan ang lahat ng dumadaang babae na pakasalan siya."
+                  },
+                  {
+                      "Score": 0.7773348689079285,
+                      "Target": "Bago matapos ang Enero, inaasahang bababa ang kasalukuyang mataas na presyo ng sibuyas."
+                  },
+                  {
+                      "Score": 0.7731558084487915,
+                      "Target": "Bago matapos ang Enero, inaasahang bababa an"
+                  }
+              ]
+          },
+          {
+              "text": "Nasayran nga gilayong mipuwesto ang langyaw sa pultahan sa maong mall ug tanang moagi nga babaye iyang hanyagan og pagpakasal.",
+              "answers": [
+                  {
+                      "Score": 0.935965359210968,
+                      "Target": "Nabatid na agad na pumwesto ang dayuhan sa pintuan ng mall at pinakiusapan ang lahat ng dumadaang babae na pakasalan siya."
+                  },
+                  {
+                      "Score": 0.7773348689079285,
+                      "Target": "Bago matapos ang Enero, inaasahang bababa ang kasalukuyang mataas na presyo ng sibuyas."
+                  },
+                  {
+                      "Score": 0.7731558084487915,
+                      "Target": "Bago matapos ang Enero, inaasahang bababa an"
+                  }
+              ]
+          }
+      ],
+      "date": "2023-05-01T02:36:48.700855"
+  },
+  {
+      "filename": "pangalan",
+      "username": "brox@gmail.com",
+      "data": [
+          {
+              "text": "Sa dili pa matapos ang Enero, ang kasamtangang taas nga presyo sa sibuyas gipaabot nga mous-os.",
+              "answers": [
+                  {
+                      "Score": 1,
+                      "Target": "Sa dili pa matapos ang Enero, ang kasamtangang taas nga presyo sa sibuyas gipaabot nga mous-os."
+                  },
+                  {
+                      "Score": 0.9207231998443604,
+                      "Target": "Apan gitataw ni Taya nga ang kaikag sa mga bakwit nga makapauli nasanapan sa tumang kahadlok kay posibleng moulbo pa og balik ang kagubot."
+                  },
+                  {
+                      "Score": 0.7721313834190369,
+                      "Target": "Nasayran nga gilayong mipuwesto ang langyaw sa pultahan sa maong mall ug tanang moagi nga babaye iyang hanyagan og pagpakasal."
+                  }
+              ]
+          },
+          {
+              "text": "Sa dili pa matapos ang Enero, ang kasamtangang taas nga presyo sa sibuyas gipaabot nga mous-os.",
+              "answers": [
+                  {
+                      "Score": 1,
+                      "Target": "Sa dili pa matapos ang Enero, ang kasamtangang taas nga presyo sa sibuyas gipaabot nga mous-os."
+                  },
+                  {
+                      "Score": 0.9207231998443604,
+                      "Target": "Apan gitataw ni Taya nga ang kaikag sa mga bakwit nga makapauli nasanapan sa tumang kahadlok kay posibleng moulbo pa og balik ang kagubot."
+                  },
+                  {
+                      "Score": 0.7721313834190369,
+                      "Target": "Nasayran nga gilayong mipuwesto ang langyaw sa pultahan sa maong mall ug tanang moagi nga babaye iyang hanyagan og pagpakasal."
+                  }
+              ]
+          },
+          {
+              "text": "Sa dili pa matapos ang Enero, ang kasamtangang taas nga presyo sa sibuyas gipaabot nga mous-os.",
+              "answers": [
+                  {
+                      "Score": 1,
+                      "Target": "Sa dili pa matapos ang Enero, ang kasamtangang taas nga presyo sa sibuyas gipaabot nga mous-os."
+                  },
+                  {
+                      "Score": 0.9207231998443604,
+                      "Target": "Apan gitataw ni Taya nga ang kaikag sa mga bakwit nga makapauli nasanapan sa tumang kahadlok kay posibleng moulbo pa og balik ang kagubot."
+                  },
+                  {
+                      "Score": 0.7721313834190369,
+                      "Target": "Nasayran nga gilayong mipuwesto ang langyaw sa pultahan sa maong mall ug tanang moagi nga babaye iyang hanyagan og pagpakasal."
+                  }
+              ]
+          },
+          {
+              "text": "Ang TF Davao nagtinguha nga maabot ang tanang pribado ug publikong mga tinun-an sa elementarya ug high school sa pagpalapad sa kultura sa seguridad sa dakbayan.",
+              "answers": [
+                  {
+                      "Score": 0.9999999403953552,
+                      "Target": "Ang TF Davao nagtinguha nga maabot ang tanang pribado ug publikong mga tinun-an sa elementarya ug high school sa pagpalapad sa kultura sa seguridad sa dakbayan."
+                  },
+                  {
+                      "Score": 0.6703978776931763,
+                      "Target": "Sa dili pa matapos ang Enero, ang kasamtangang taas nga presyo sa sibuyas gipaabot nga mous-os."
+                  },
+                  {
+                      "Score": 0.6578404307365417,
+                      "Target": "Sa nakalabay nga Disyembre 2022 nigawas ang resulta sa LET sa bulan sa Oktubre 2022 kon diin 90 porsiyento sa mga nag-top gikan sa Davao Region."
+                  }
+              ]
+          },
+          {
+              "text": "Ang TF Davao nagtinguha nga maabot ang tanang pribado ug publikong mga tinun-an sa elementarya ug high school sa pagpalapad sa kultura sa seguridad sa dakbayan.",
+              "answers": [
+                  {
+                      "Score": 0.9999999403953552,
+                      "Target": "Ang TF Davao nagtinguha nga maabot ang tanang pribado ug publikong mga tinun-an sa elementarya ug high school sa pagpalapad sa kultura sa seguridad sa dakbayan."
+                  },
+                  {
+                      "Score": 0.6703978776931763,
+                      "Target": "Sa dili pa matapos ang Enero, ang kasamtangang taas nga presyo sa sibuyas gipaabot nga mous-os."
+                  },
+                  {
+                      "Score": 0.6578404307365417,
+                      "Target": "Sa nakalabay nga Disyembre 2022 nigawas ang resulta sa LET sa bulan sa Oktubre 2022 kon diin 90 porsiyento sa mga nag-top gikan sa Davao Region."
+                  }
+              ]
+          },
+          {
+              "text": "Ang TF Davao nagtinguha nga maabot ang tanang pribado ug publikong mga tinun-an sa elementarya ug high school sa pagpalapad sa kultura sa seguridad sa dakbayan.",
+              "answers": [
+                  {
+                      "Score": 0.9999999403953552,
+                      "Target": "Ang TF Davao nagtinguha nga maabot ang tanang pribado ug publikong mga tinun-an sa elementarya ug high school sa pagpalapad sa kultura sa seguridad sa dakbayan."
+                  },
+                  {
+                      "Score": 0.6703978776931763,
+                      "Target": "Sa dili pa matapos ang Enero, ang kasamtangang taas nga presyo sa sibuyas gipaabot nga mous-os."
+                  },
+                  {
+                      "Score": 0.6578404307365417,
+                      "Target": "Sa nakalabay nga Disyembre 2022 nigawas ang resulta sa LET sa bulan sa Oktubre 2022 kon diin 90 porsiyento sa mga nag-top gikan sa Davao Region."
+                  }
+              ]
+          },
+          {
+              "text": "Apan gitataw ni Taya nga ang kaikag sa mga bakwit nga makapauli nasanapan sa tumang kahadlok kay posibleng moulbo pa og balik ang kagubot.",
+              "answers": [
+                  {
+                      "Score": 1,
+                      "Target": "Apan gitataw ni Taya nga ang kaikag sa mga bakwit nga makapauli nasanapan sa tumang kahadlok kay posibleng moulbo pa og balik ang kagubot."
+                  },
+                  {
+                      "Score": 0.9207231998443604,
+                      "Target": "Sa dili pa matapos ang Enero, ang kasamtangang taas nga presyo sa sibuyas gipaabot nga mous-os."
+                  },
+                  {
+                      "Score": 0.7565363049507141,
+                      "Target": "Sa nakalabay nga Disyembre 2022 nigawas ang resulta sa LET sa bulan sa Oktubre 2022 kon diin 90 porsiyento sa mga nag-top gikan sa Davao Region."
+                  }
+              ]
+          },
+          {
+              "text": "Apan gitataw ni Taya nga ang kaikag sa mga bakwit nga makapauli nasanapan sa tumang kahadlok kay posibleng moulbo pa og balik ang kagubot.",
+              "answers": [
+                  {
+                      "Score": 1,
+                      "Target": "Apan gitataw ni Taya nga ang kaikag sa mga bakwit nga makapauli nasanapan sa tumang kahadlok kay posibleng moulbo pa og balik ang kagubot."
+                  },
+                  {
+                      "Score": 0.9207231998443604,
+                      "Target": "Sa dili pa matapos ang Enero, ang kasamtangang taas nga presyo sa sibuyas gipaabot nga mous-os."
+                  },
+                  {
+                      "Score": 0.7565363049507141,
+                      "Target": "Sa nakalabay nga Disyembre 2022 nigawas ang resulta sa LET sa bulan sa Oktubre 2022 kon diin 90 porsiyento sa mga nag-top gikan sa Davao Region."
+                  }
+              ]
+          },
+          {
+              "text": "Apan gitataw ni Taya nga ang kaikag sa mga bakwit nga makapauli nasanapan sa tumang kahadlok kay posibleng moulbo pa og balik ang kagubot.",
+              "answers": [
+                  {
+                      "Score": 1,
+                      "Target": "Apan gitataw ni Taya nga ang kaikag sa mga bakwit nga makapauli nasanapan sa tumang kahadlok kay posibleng moulbo pa og balik ang kagubot."
+                  },
+                  {
+                      "Score": 0.9207231998443604,
+                      "Target": "Sa dili pa matapos ang Enero, ang kasamtangang taas nga presyo sa sibuyas gipaabot nga mous-os."
+                  },
+                  {
+                      "Score": 0.7565363049507141,
+                      "Target": "Sa nakalabay nga Disyembre 2022 nigawas ang resulta sa LET sa bulan sa Oktubre 2022 kon diin 90 porsiyento sa mga nag-top gikan sa Davao Region."
+                  }
+              ]
+          },
+          {
+              "text": "Sa nakalabay nga Disyembre 2022 nigawas ang resulta sa LET sa bulan sa Oktubre 2022 kon diin 90 porsiyento sa mga nag-top gikan sa Davao Region.",
+              "answers": [
+                  {
+                      "Score": 1,
+                      "Target": "Sa nakalabay nga Disyembre 2022 nigawas ang resulta sa LET sa bulan sa Oktubre 2022 kon diin 90 porsiyento sa mga nag-top gikan sa Davao Region."
+                  },
+                  {
+                      "Score": 0.7604977488517761,
+                      "Target": "Sa dili pa matapos ang Enero, ang kasamtangang taas nga presyo sa sibuyas gipaabot nga mous-os."
+                  },
+                  {
+                      "Score": 0.7565363049507141,
+                      "Target": "Apan gitataw ni Taya nga ang kaikag sa mga bakwit nga makapauli nasanapan sa tumang kahadlok kay posibleng moulbo pa og balik ang kagubot."
+                  }
+              ]
+          },
+          {
+              "text": "Sa nakalabay nga Disyembre 2022 nigawas ang resulta sa LET sa bulan sa Oktubre 2022 kon diin 90 porsiyento sa mga nag-top gikan sa Davao Region.",
+              "answers": [
+                  {
+                      "Score": 1,
+                      "Target": "Sa nakalabay nga Disyembre 2022 nigawas ang resulta sa LET sa bulan sa Oktubre 2022 kon diin 90 porsiyento sa mga nag-top gikan sa Davao Region."
+                  },
+                  {
+                      "Score": 0.7604977488517761,
+                      "Target": "Sa dili pa matapos ang Enero, ang kasamtangang taas nga presyo sa sibuyas gipaabot nga mous-os."
+                  },
+                  {
+                      "Score": 0.7565363049507141,
+                      "Target": "Apan gitataw ni Taya nga ang kaikag sa mga bakwit nga makapauli nasanapan sa tumang kahadlok kay posibleng moulbo pa og balik ang kagubot."
+                  }
+              ]
+          },
+          {
+              "text": "Sa nakalabay nga Disyembre 2022 nigawas ang resulta sa LET sa bulan sa Oktubre 2022 kon diin 90 porsiyento sa mga nag-top gikan sa Davao Region.",
+              "answers": [
+                  {
+                      "Score": 1,
+                      "Target": "Sa nakalabay nga Disyembre 2022 nigawas ang resulta sa LET sa bulan sa Oktubre 2022 kon diin 90 porsiyento sa mga nag-top gikan sa Davao Region."
+                  },
+                  {
+                      "Score": 0.7604977488517761,
+                      "Target": "Sa dili pa matapos ang Enero, ang kasamtangang taas nga presyo sa sibuyas gipaabot nga mous-os."
+                  },
+                  {
+                      "Score": 0.7565363049507141,
+                      "Target": "Apan gitataw ni Taya nga ang kaikag sa mga bakwit nga makapauli nasanapan sa tumang kahadlok kay posibleng moulbo pa og balik ang kagubot."
+                  }
+              ]
+          },
+          {
+              "text": "Nasayran nga gilayong mipuwesto ang langyaw sa pultahan sa maong mall ug tanang moagi nga babaye iyang hanyagan og pagpakasal.",
+              "answers": [
+                  {
+                      "Score": 1.0000001192092896,
+                      "Target": "Nasayran nga gilayong mipuwesto ang langyaw sa pultahan sa maong mall ug tanang moagi nga babaye iyang hanyagan og pagpakasal."
+                  },
+                  {
+                      "Score": 0.7721313834190369,
+                      "Target": "Sa dili pa matapos ang Enero, ang kasamtangang taas nga presyo sa sibuyas gipaabot nga mous-os."
+                  },
+                  {
+                      "Score": 0.7558479309082031,
+                      "Target": "Apan gitataw ni Taya nga ang kaikag sa mga bakwit nga makapauli nasanapan sa tumang kahadlok kay posibleng moulbo pa og balik ang kagubot."
+                  }
+              ]
+          },
+          {
+              "text": "Nasayran nga gilayong mipuwesto ang langyaw sa pultahan sa maong mall ug tanang moagi nga babaye iyang hanyagan og pagpakasal.",
+              "answers": [
+                  {
+                      "Score": 1.0000001192092896,
+                      "Target": "Nasayran nga gilayong mipuwesto ang langyaw sa pultahan sa maong mall ug tanang moagi nga babaye iyang hanyagan og pagpakasal."
+                  },
+                  {
+                      "Score": 0.7721313834190369,
+                      "Target": "Sa dili pa matapos ang Enero, ang kasamtangang taas nga presyo sa sibuyas gipaabot nga mous-os."
+                  },
+                  {
+                      "Score": 0.7558479309082031,
+                      "Target": "Apan gitataw ni Taya nga ang kaikag sa mga bakwit nga makapauli nasanapan sa tumang kahadlok kay posibleng moulbo pa og balik ang kagubot."
+                  }
+              ]
+          },
+          {
+              "text": "Nasayran nga gilayong mipuwesto ang langyaw sa pultahan sa maong mall ug tanang moagi nga babaye iyang hanyagan og pagpakasal.",
+              "answers": [
+                  {
+                      "Score": 1.0000001192092896,
+                      "Target": "Nasayran nga gilayong mipuwesto ang langyaw sa pultahan sa maong mall ug tanang moagi nga babaye iyang hanyagan og pagpakasal."
+                  },
+                  {
+                      "Score": 0.7721313834190369,
+                      "Target": "Sa dili pa matapos ang Enero, ang kasamtangang taas nga presyo sa sibuyas gipaabot nga mous-os."
+                  },
+                  {
+                      "Score": 0.7558479309082031,
+                      "Target": "Apan gitataw ni Taya nga ang kaikag sa mga bakwit nga makapauli nasanapan sa tumang kahadlok kay posibleng moulbo pa og balik ang kagubot."
+                  }
+              ]
+          }
+      ],
+      "date": "2023-05-01T13:56:32.793932"
+  }
+]
