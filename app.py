@@ -58,12 +58,14 @@ class UserFiles(db.Model):
     filename = db.Column(db.String(200))
     data = db.Column(db.JSON)
     date = db.Column(db.DateTime())
+    validated = db.Column(db.Boolean, default=False)
 
-    def __init__(self, filename, email, data, date):
+    def __init__(self, filename, email, data, date, validated):
         self.filename = filename
         self.email = email
         self.data = data
         self.date = date
+        self.validated = validated
         super().__init__()
 
     def to_json(self):
@@ -72,6 +74,7 @@ class UserFiles(db.Model):
             "filename": self.filename,
             "email": self.email,
             "data": self.data,
+            "validated": self.validated,
             "date": self.date.isoformat(),
         }
 
@@ -120,7 +123,6 @@ def registration_submit():
         email = content['email']
         password = content['password']
         is_admin = False
-        print(username, email, password)
 
         if username == '' or email == '' or password == '':
             return redirect(
@@ -144,8 +146,6 @@ def login_submit():
         password = content['password']
         user = Users.query.filter_by(email=email).first()
 
-        print("USER.ADMIN NI SYA:  ", user.is_admin)
-
         if user is not None and user.password == password:
             session['email'] = email
             return jsonify({"user": email, "is_admin": user.is_admin})
@@ -163,13 +163,11 @@ def admin_files():
             return jsonify({"error": 'No email'})
         else:
             all_results = UserFiles.query.all()
-            print(all_results)
             data = {
                 "results":
                 json.dumps([user_file.to_json() for user_file in all_results],
                            default=str)
             }
-            print('PRINT ALL RESULTS DATA NI ADMIN =>>>>> ', jsonify(data))
             return jsonify(data)
 
 
@@ -183,13 +181,11 @@ def user_fetch_files():
             return jsonify({"error": 'No email'})
         else:
             all_results = UserFiles.query.filter_by(email=email).all()
-            print(all_results)
             data = {
                 "results":
                 json.dumps([user_file.to_json() for user_file in all_results],
                            default=str)
             }
-            print('jsonify DATA =>>>>> ', jsonify(data))
         return jsonify(data)
 
 
@@ -212,8 +208,6 @@ def import_file():
         num_rows = len(stringified_source)
         num_cols = len(stringified_source)
 
-        print('ROWS NIIIII: ', num_rows, '\nCOLS NI: ', num_cols)
-
         # iterate over the number of rows and columns to build the 2D array
         for i in range(num_rows):
             row = []
@@ -227,7 +221,6 @@ def import_file():
                 row.append(obj)
             # add the current row to the results list
             convertedArray.append(row)
-        print('CONVERTED ARRAY NI SYA: ', convertedArray)
 
         # initialize 2D array with empty dictionaries
         top3_target = [[{}, {}, {}] for _ in range(len(convertedArray))]
@@ -279,8 +272,6 @@ def import_file():
         # if stringified_source == None or target == None or filename == '':
         #   return jsonify({ "error": 'Source, target files and filename are required fields' })
 
-        print('import results', json.dumps(results, indent=2))
-
         data = {"results": results, "filename": filename}
         return jsonify(data)
 
@@ -289,29 +280,32 @@ def import_file():
 def save_results():
     if request.method == 'PUT':
         content = request.json
-        print('CONTENT NI: ', content)
         email = content['email']
         response = content['source']
         filename = content['filename']
         file_id = content['id']
         is_validated = content['is_validated']
         date = datetime.now().isoformat()
-        print('response ni: ', response)
 
         file = UserFiles.query.filter_by(id=file_id).first()
 
         if file and is_validated:
-            file.saved = True
+            file.validated = True
             db.session.commit()
+            all_results = UserFiles.query.all()
+            data = {
+                "results":
+                json.dumps([user_file.to_json() for user_file in all_results],
+                           default=str)
+            }
+            return jsonify(data)
 
     elif request.method == 'POST':
         content = request.json
-        print('CONTENT NI: ', content)
         email = content['email']
         response = content['source']
         filename = content['filename']
         date = datetime.now().isoformat()
-        print('response ni: ', response)
 
         # Check if filename already exists
         suffix = 1
@@ -324,36 +318,15 @@ def save_results():
             # reassign filename with number suffix if existing record is not None
             filename = filename + str(suffix)
 
-        result = []
-        for item in response:
-            print('response', response)
-            # print the source item
-            # print("Source from the parsed response: " + item["source"])
-            # loop through the target items
 
-            for target_item in item["answers"]:
-                # print the target items
-                # print("Target Score: " + str(target_item["Score"]))
-                # print("Target Text: " + target_item["Target"])
-                item_for_saving = {
-                    'text': item["text"],
-                    'answers': target_item
-                }
-                result.append(item_for_saving)
-                print("NAABOT KA DIRI?")
-
-        # add a new line for readability
-            print()
-
-        print('results ni dam', result)
-
-        if result == None or filename == '' or email == None:
+        if response == None or filename == '' or email == None:
             return jsonify({
                 "error":
                 'Source, answers files, email, and filename are required fields'
             })
         else:
-            data = UserFiles(filename, email, result, date)
+            response_data = response
+            data = UserFiles(filename, email, response_data, date, False)
             db.session.add(data)
             db.session.commit()
             all_results = UserFiles.query.filter_by(email=email).all()
@@ -362,14 +335,13 @@ def save_results():
                 json.dumps([user_file.to_json() for user_file in all_results],
                            default=str)
             }
-            print('jsonify DATA =>>>>> ', jsonify(data))
             return jsonify(data)
 
 
 # routes uses index.html as template
 template_routes = [
     '/', '/register', '/login', '/importer', '/score', '/aligned-files',
-    '/admin_view_files', '/selected-file'
+    '/admin_view_files', '/selected-file', '/edit-selected-file'
 ]
 
 
@@ -377,7 +349,6 @@ template_routes = [
 def get_id(id):
     if request.method == 'GET':
         user_file = UserFiles.query.filter_by(id=id).first()
-        print('USERFILE NI: ', json.dumps([user_file.to_json()], default=str))
         if user_file is None:
             return jsonify({'error': 'File not found'})
         else:
@@ -429,7 +400,6 @@ def sim_align(source_list, target_list, cosineScore):
                 'Score': np.float32(cosineScore)
             }
             # compile_daw.append(scorePerPair)
-            # print('result ni scorePerPair: ',compile_daw)
             json_data = json.dumps(scorePerPair, default=convert)
             aligned.append(json_data)
     conv = [json.loads(s.replace("'", "\"")) for s in aligned]

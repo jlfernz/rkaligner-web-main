@@ -9,6 +9,21 @@
   background-color: rgb(20, 83, 122, 0.94);
 }
 
+.importer-icon {
+  background-color: rgb(20, 83, 122, 0.94);
+  border-radius: 50%;
+  padding: 14px;
+  position: fixed;
+  height: 30px;
+  width: 30px;
+  right: 10px;
+  bottom: 10px;
+}
+
+#logoutBtn {
+  cursor: pointer;
+}
+
 .parent, .aligner__wrapper, .summary_page { 
   background-image: url("../static/images/UIC_Building.png");
   background-size: cover;
