@@ -167,8 +167,8 @@ $(document).ready(function () {
 
   const editIcon = document.getElementById('admin-edit-files')
   const user = JSON.parse(localStorage.getItem('user'))
-
-    if (location.pathname == '/selected-file' && user?.user?.is_admin) {
+  
+    if (location.pathname == '/selected-file' && user?.is_admin) {
       editIcon.style.display = 'block';
     } else {
       editIcon.style.display = 'none';
@@ -329,7 +329,7 @@ function createAdminFileEditor() {
     var targetHeader = document.createElement('th');
     sourceHeader.innerHTML = 'Source Language';
     targetHeader.innerHTML = 'Target Language';
-    editIconHeader.innerHTML = 'Edit';
+    editIconHeader.innerHTML = 'Score';
     headerRow.appendChild(sourceHeader);
     headerRow.appendChild(targetHeader);
     headerRow.appendChild(editIconHeader);
@@ -337,6 +337,7 @@ function createAdminFileEditor() {
     table.appendChild(thead);
 
     const selectedFile = responseItems[0];
+    let defaultAlignedData = [];
     for (var i = 0; i < selectedFile.data.length; i++) {
       const selectedFileAnswers = selectedFile.data[i]?.answers || selectedFile.data[i]?.target || (Array.isArray(selectedFile.data[i]?.source) ? selectedFile.data[i]?.source : []);
       const sortedAnswers = selectedFileAnswers.sort((a, b) => (b?.score || b?.Score) - (a?.score || a?.Score))
@@ -350,7 +351,8 @@ function createAdminFileEditor() {
       input.setAttribute('id', `selectedAnswer${i}`);
       input.classList.add('selected-answer-editor')
 
-      textEl.innerHTML = typeof selectedFile.data[i]?.source === 'string' ? selectedFile.data[i]?.source : selectedFile.data[i]?.text;
+      const sourceText = typeof selectedFile.data[i]?.source === 'string' ? selectedFile.data[i]?.source : selectedFile.data[i]?.text
+      textEl.innerHTML = sourceText;
       sourceCell.appendChild(textEl)
       editBoxCell.appendChild(input);
       row.appendChild(sourceCell);
@@ -373,6 +375,11 @@ function createAdminFileEditor() {
           answerRadioOption.value = answerText;
           // first / highest score defaulted to radio checked
           answerRadioOption.checked = !j ? true : false;
+          // set defaultAligned data to localStorage
+          // setting the highest score / index[0] as default
+          if (!j) {
+            defaultAlignedData.push({ source: sourceText, answer: answerText })
+          }
           answerRadioOption.classList.add('answer-only')
           answerRadioLabel.textContent = answerText
           scoreCell.classList.add('score-only')
@@ -384,7 +391,12 @@ function createAdminFileEditor() {
           answerNoScoreWrapper.addEventListener('click', (function (answer, iteration, inputEl) {
             return function () {
               localStorage.setItem(`source${iteration}`, answer)
+              // get the aligned data
+              const alignedData = JSON.parse(localStorage.getItem('aligned')) || []
               if (answer) {
+                alignedData[iteration] = { source:  sourceText, answer: answer}
+                // update alignedData on change radio option
+                localStorage.setItem('aligned', JSON.stringify(alignedData))
                 inputEl.value = answer; // manipulate the value of the input element
               }
             }
@@ -402,6 +414,7 @@ function createAdminFileEditor() {
       table.appendChild(row);
       row = document.createElement('tr');
     }
+    localStorage.setItem('aligned', JSON.stringify(defaultAlignedData));
 
     table.appendChild(tbody);
 
@@ -430,7 +443,7 @@ function createAdminFileViewer(isAdminEditing) {
     var targetHeader = document.createElement('th');
     sourceHeader.innerHTML = 'Source Language';
     targetHeader.innerHTML = 'Target Language';
-    editIconHeader.innerHTML = 'Edit';
+    editIconHeader.innerHTML = 'Score';
     headerRow.appendChild(sourceHeader);
     headerRow.appendChild(targetHeader);
     headerRow.appendChild(editIconHeader);
@@ -741,17 +754,10 @@ function handleDownloadFile(selectedFile) {
   ];
   const csvData = [titleColumn.join(',')]; // Create a row with column headers
 
-  for (let i = 0; i < fileData.data.length; i++) {
-    const source = fileData.data[i];
-    const highestScoreObj = source.answers.reduce((highestScore, currentScore) => {
-      if (currentScore.score > highestScore.score) {
-        return currentScore;
-      } else {
-        return highestScore;
-      }
-    });
-    const highestScoreText = highestScoreObj.answer || highestScoreObj.target || highestScoreObj.Target;
-    const sourceText = source.text;
+  const alignedData = fileData?.aligned;
+  for (let i = 0; i < alignedData?.length; i++) {
+    const highestScoreText = alignedData[i]?.answer;
+    const sourceText = alignedData[i]?.text || alignedData[i]?.source;
     const row = [sourceText, highestScoreText].map(escapeCSV).join(',');
     csvData.push(row); // Add the row to the csvData array
   }
@@ -799,7 +805,7 @@ function createScoreTableWithSelector() {
     var targetHeader = document.createElement('th');
     sourceHeader.innerHTML = 'Source Language';
     targetHeader.innerHTML = 'Target Language';
-    scoreHeader.innerHTML = 'Edit';
+    scoreHeader.innerHTML = 'Score';
     headerRow.appendChild(sourceHeader);
     headerRow.appendChild(targetHeader);
     headerRow.appendChild(scoreHeader);
@@ -814,7 +820,7 @@ function createScoreTableWithSelector() {
       var targetCell = document.createElement('td');
       sourceCell.innerHTML = sourceItems[i];
       targetCell.innerHTML = `<input class="selected-answer" id="selected-answer-${i}-${j}" required type="text" placeholder="Pangalan ng file">`;
-      scoreCell.innerHTML = `<img class="downloader-icon" id="${i}" src="../static/images/edit-icon.png" alt="edit" />`;
+      scoreCell.innerHTML = `<img class="downloader-icon" id="${i}" src="../static/images/editing.png" alt="edit" />`;
 
       row.appendChild(sourceCell);
       row.appendChild(targetCell);
@@ -897,6 +903,7 @@ function saveResults() {
   const filename = localStorage.getItem('resultFilename');
   const username = JSON.parse(localStorage.getItem('user'));
   const selectedFile = JSON.parse(localStorage.getItem('selectedFile'));
+  const alignedData = JSON.parse(localStorage.getItem('aligned'));
   const { is_admin, user } = username
 
   if (selectedFile && user) {
@@ -906,6 +913,7 @@ function saveResults() {
       email: user,
       id: selectedFile?.id || selectedFile[0]?.id,
       is_validated: is_admin ? true : false,
+      aligned: is_admin ? alignedData : []
     };
     fetch('/save-results', {
       method: is_admin ? 'PUT' : 'POST',
@@ -990,12 +998,23 @@ function handleLogin() {
       headers: { 'Content-Type': 'application/json' },
     }).then((res) => res.json())
       .then((response) => {
-        localStorage.setItem('user', JSON.stringify(response))
-        return response
+        if (response?.error && isEmailError(response.error)) {
+          throw new Error('Unable to authenticate credentials.');
+        } else {
+          localStorage.setItem('user', JSON.stringify(response))
+          return response
+        }
       })
-      .then(() => {
-        displayAllFiles()
-      })
-      .catch(err => console.log('error', err));
+      .then(() =>displayAllFiles())
+      .catch(err => {
+        if (err?.message) {
+          alert(err.message);
+        }
+      });
   }
+}
+
+function isEmailError(email) {
+  var re = /\S+@\S+\.\S+/;
+  return re.test(email);
 }
