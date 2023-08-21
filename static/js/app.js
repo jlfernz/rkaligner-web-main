@@ -3,6 +3,7 @@ function toggleView() {
   const hasRegister = document.querySelectorAll('.wrapper__registration');
   const hasImporter = document.querySelectorAll('.wrapper__importer');
   const hasScore = document.querySelectorAll('.wrapper__score-table');
+  const validatedTable = document.querySelectorAll('.wrapper__validated-table');
   const filesTable = document.querySelectorAll('.wrapper__files-table');
   const content = document.querySelector('#landing-page__yellow_bot');
   const child = document.querySelectorAll('.child')
@@ -30,6 +31,7 @@ function toggleView() {
       hasRegister[0].style.display = 'none';
       hasImporter[0].style.display = 'none';
       hasScore[0].style.display = 'none';
+      validatedTable[0].style.display = 'none';
       filesTable[0].style.display = 'none';
     }
     parent.removeChild(logoutButton);
@@ -41,6 +43,7 @@ function toggleView() {
       hasLogin[0].style.display = 'none';
       hasImporter[0].style.display = 'none';
       hasScore[0].style.display = 'none';
+      validatedTable[0].style.display = 'none';
       filesTable[0].style.display = 'none';
     }
     parent.removeChild(logoutButton);
@@ -50,12 +53,14 @@ function toggleView() {
     hasImporter[0].style.display = 'flex';
     if (content) {
       content.style.background = 'transparent';
+      validatedTable[0].style.display = 'none';
       hasScore[0].style.display = 'none';
     }
     if (hasLogin.length && hasRegister[0]?.style && hasLogin[0]?.style) {
       hasLogin[0].style.display = 'none';
       hasRegister[0].style.display = 'none';
       hasScore[0].style.display = 'none';
+      validatedTable[0].style.display = 'none';
       filesTable[0].style.display = 'none';
     }
   } else if (location.pathname == '/admin_view_files' && username?.user?.length && username?.is_admin) {
@@ -65,6 +70,7 @@ function toggleView() {
     child[0].style.display = 'none';
     child[1].style.display = 'none';
     hasScore[0].style.display = 'none';
+    validatedTable[0].style.display = 'none';
     parent.style.backgroundSize = 'auto';
     adminFilesTable();
   }
@@ -76,8 +82,9 @@ function toggleView() {
     child[0].style.display = 'none';
     child[1].style.display = 'none';
     hasScore[0].style.display = 'flex';
+    validatedTable[0].style.display = 'none';
     parent.style.backgroundSize = 'auto';
-    filename.innerHTML = localStorage.getItem('selectedFile') ? JSON.parse(localStorage.getItem('selectedFile'))[0]?.filename || '' : localStorage.getItem('resultFilename');
+    filename.innerHTML = localStorage.getItem('resultFilename');
     createScoreTable();
   }
 
@@ -89,6 +96,7 @@ function toggleView() {
     child[0].style.display = 'none';
     child[1].style.display = 'none';
     hasScore[0].style.display = 'flex';
+    validatedTable[0].style.display = 'none';
     parent.style.backgroundSize = 'auto';
     filename.innerHTML = localStorage.getItem('selectedFile') ? JSON.parse(localStorage.getItem('selectedFile'))[0]?.filename || '' : localStorage.getItem('resultFilename');
     if (username?.is_admin) {
@@ -97,6 +105,22 @@ function toggleView() {
       createUserFileViewer();
     }
   }
+  
+  else if (location.pathname == '/validated-file' && username?.user?.length) {
+    hasLogin[0].style.display = 'none';
+    hasRegister[0].style.display = 'none';
+    hasImporter[0].style.display = 'none';
+    filesTable[0].style.display = 'none';
+    child[0].style.display = 'none';
+    child[1].style.display = 'none';
+    hasScore[0].style.display = 'none';
+    validatedTable[0].style.display = 'flex';
+    parent.style.backgroundSize = 'auto';
+    // console.log(selectedFile);
+    filename.innerHTML = localStorage.getItem('selectedFile');
+    createValidatedTable();
+  }
+
   else if (location.pathname == '/edit-selected-file' && username?.user?.length) {
     hasLogin[0].style.display = 'none';
     hasRegister[0].style.display = 'none';
@@ -105,6 +129,7 @@ function toggleView() {
     child[0].style.display = 'none';
     child[1].style.display = 'none';
     hasScore[0].style.display = 'flex';
+    validatedTable[0].style.display = 'none';
     parent.style.backgroundSize = 'auto';
     if (username?.is_admin) {
       createAdminFileEditor();
@@ -118,6 +143,7 @@ function toggleView() {
     child[0].style.display = 'none';
     child[1].style.display = 'none';
     hasScore[0].style.display = 'none';
+    validatedTable[0].style.display = 'none';
     parent.style.backgroundSize = 'auto';
     createFilesTable()
   }
@@ -254,7 +280,6 @@ function createScoreTable() {
 
 }
 
-
 function createUserFileViewer() {
   const hasScore = document.querySelector('.wrapper__score-table');
   const responseItems = JSON.parse(localStorage.getItem('selectedFile'))
@@ -308,6 +333,48 @@ function createUserFileViewer() {
 
     // append table to document
     hasScore.appendChild(table);
+  }
+}
+
+function createValidatedTable() {
+  const validatedTable = document.querySelector('.wrapper__validated-table');
+  const responseItems = JSON.parse(localStorage.getItem('selectedFile'))
+  if (responseItems) {
+    var table = document.createElement('table');
+    var thead = document.createElement('thead');
+    var tbody = document.createElement('tbody');
+
+    // create header row
+    var headerRow = document.createElement('tr');
+    var sourceHeader = document.createElement('th');
+    var targetHeader = document.createElement('th');
+    sourceHeader.innerHTML = 'Source Language';
+    targetHeader.innerHTML = 'Target Language';
+    headerRow.appendChild(sourceHeader);
+    headerRow.appendChild(targetHeader);
+    thead.appendChild(headerRow);
+    table.appendChild(thead);
+
+    for (var i = 0; i < responseItems[0].aligned.length; i++) {
+      var row = document.createElement('tr');
+      const sourceText = responseItems[0].aligned[i].source;
+      const targetText = responseItems[0].aligned[i].answer;
+      console.log('Source Text', sourceText);
+      console.log('Targ Text', targetText);
+      var sourceCell = document.createElement('td');
+      var targetCell = document.createElement('td');
+      sourceCell.innerHTML = sourceText;
+      targetCell.innerHTML = targetText;
+      sourceCell.setAttribute('rowspan', '1');
+      row.style.borderTop = '1px solid';
+      row.appendChild(sourceCell);
+      row.appendChild(targetCell);
+      table.appendChild(row);
+      row = document.createElement('tr');
+    }
+    table.appendChild(tbody);
+    // append table to document
+    validatedTable.appendChild(table);
   }
 }
 
@@ -750,7 +817,7 @@ function handleDownloadFile(selectedFile) {
   const fileData = JSON.parse(decodeURIComponent(selectedFile));
   const titleColumn = [
     'Source',
-    'Answers'
+    'Target'
   ];
   const csvData = [titleColumn.join(',')]; // Create a row with column headers
 
@@ -942,10 +1009,19 @@ function getUserFileById(fileId) {
     .then(response => response.json())
     .then(data => {
       localStorage.setItem('selectedFile', data.results)
+      console.log('data in getUserFileById', data.results);
+      const valid =  JSON.parse(data.results)
+      console.log('Na parse? ',valid[0].validated);
       if (data.error) {
         console.error(data.error);
       }
-    }).then(() => window.location.href = '/selected-file')
+      if (valid[0].validated){
+        window.location.href = '/validated-file'
+      }
+      else {
+        window.location.href = '/selected-file'
+      }
+    })
     .catch(error => console.error(error));
 }
 

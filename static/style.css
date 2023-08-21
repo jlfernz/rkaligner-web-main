@@ -322,7 +322,7 @@ table {
   margin: 100px 0 50px 0;
 }
 
-.wrapper__score-table, .wrapper__files-table {
+.wrapper__score-table, .wrapper__validated-table, .wrapper__files-table {
   width: 100%;
   align-items: center;
   justify-content: center;

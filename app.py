@@ -331,7 +331,7 @@ def save_results():
 			})
 		else:
 			response_data = response
-			data = UserFiles(filename, email, response_data, date, False)
+			data = UserFiles(filename, email, response_data, date, False, [])
 			db.session.add(data)
 			db.session.commit()
 			all_results = UserFiles.query.filter_by(email=email).all()
@@ -346,7 +346,7 @@ def save_results():
 # routes uses index.html as template
 template_routes = [
 	'/', '/register', '/login', '/importer', '/score', '/aligned-files',
-	'/admin_view_files', '/selected-file', '/edit-selected-file'
+	'/admin_view_files', '/selected-file', '/edit-selected-file', '/validated-file'
 ]
 
 
